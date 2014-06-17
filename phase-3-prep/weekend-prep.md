@@ -1,6 +1,10 @@
 # Phase 3 Prep
 This work should be done over the weekend between Phases 2 and 3.
 
+**Phase 3 Intro:**
+
+- Read the [Introduction to Phase 3](../resources/intro-to-p3.md).
+
 **Rails:**
 
 - Go through [Learning Rails](./learning-rails.md).
