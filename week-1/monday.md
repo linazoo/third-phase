@@ -12,6 +12,7 @@
 With your pair, complete the following challenges.
 
 - [Sinatra to Rails](https://github.com/nighthawks-2014/sinatra-to-rails-pick-1-of-3-challenge)
+
   Be sure to cover ...
   - Routing: named routes, url helpers
   - CRUD using form_for
