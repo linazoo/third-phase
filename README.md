@@ -29,7 +29,6 @@ You will work in these groups until final projects begin.
 - [Wednesday](week-1/wednesday.md)
 - [Thursday](week-1/thursday.md)
 - [Friday](week-1/friday.md)
-- [Weekend](week-1/weekend.md)
 
 ### Week 2:
 
