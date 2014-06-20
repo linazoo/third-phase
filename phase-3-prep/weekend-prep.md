@@ -20,7 +20,7 @@ If you find or know of other great introductory Rails or testing resources, shar
 
 ##### Core Challenges
 
-- [Rails Blog](https://github.com/nighthawks-2014/rails-blog-challenge)
+- [Rails Blog](https://github.com/fireflies-2014/rails-blog-challenge)
 
 ### Additional Resources
 
