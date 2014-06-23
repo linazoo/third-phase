@@ -9,8 +9,10 @@
 
 You will work in these groups until final projects begin.
 
-1. names ...
-2. names ...
+1. Dan, Natalie, Ahmed, Caleb
+- Peter, Lana, Mikee, Steve, Liz
+- Catherine, Kim, Rick, Monica
+- Milan, Tom, Scott, Keenan
 
 **Daily Guides:**
 
