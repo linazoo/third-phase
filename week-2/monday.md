@@ -11,7 +11,7 @@
 ##### Core Challenges
 With your pair, complete the following challenges.
 
-- [Karmaville Challenge](https://github.com/nighthawks-2014/karmaville)
+- [Karmaville Challenge](../../../../karmaville)
 
 ##### Microchallenges
 
