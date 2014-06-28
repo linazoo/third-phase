@@ -11,9 +11,9 @@
 ##### Core Challenges
 With your pair, complete the following challenges.
 
-- [Behaviour Drill: Grocery List](https://github.com/nighthawks-2014/behavior-drill-grocery-list-challenge)
-- [Behaviour Drill: Post-Its 1](https://github.com/nighthawks-2014/behavior-drill-post-it-board-v1-challenge)
-- [Behaviour Drill: Post-Its 2](https://github.com/nighthawks-2014/behavior-drill-post-it-board-v2-challenge)
+- [Behaviour Drill: Grocery List](../../../../behavior-drill-grocery-list-challenge)
+- [Behaviour Drill: Post-Its 1](../../../../behavior-drill-post-it-board-v1-challenge)
+- [Behaviour Drill: Post-Its 2](../../../../behavior-drill-post-it-board-v2-challenge)
 
 ##### Microchallenges
 
