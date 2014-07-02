@@ -16,3 +16,7 @@
 ### Lecture Topics
 
 - iOS Development Intro
+
+### Resources
+
+[Final Project Timeline](../resources/final-projects.md)
