@@ -2,7 +2,6 @@
 
 ## Day 1 - Wednesday
 
-* As a group decide what is MVP
 * As a group decide what tech is needed
 * Begin researching idea and tech
 * Build backlog
