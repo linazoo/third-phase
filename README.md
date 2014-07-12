@@ -9,11 +9,11 @@
 
 You will work in these groups until final projects begin.
 
--
--
--
--
--
+- Group 1
+- Group 2
+- Group 3
+- Group 4
+- Group 5
 
 **Daily Guides:**
 
