@@ -9,11 +9,11 @@
 
 You will work in these groups until final projects begin.
 
-- Group 1
-- Group 2
-- Group 3
-- Group 4
-- Group 5
+1. Ajay, Joey, Martin, Zach
+2. Andy, Natalie, Xander
+3. Celeen, Colin, Stuart, Travis
+4. Hing, Matt, Tyler, Spencer
+5. John, Phil, Osama
 
 **Daily Guides:**
 
