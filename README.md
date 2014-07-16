@@ -17,10 +17,10 @@ You will work in these groups until final projects begin.
 
 ** Lightning Talks **
 
-Thursday: Andy, John, Hing, Natalie
-Friday:   Tyler, Travis, Osama, Martin
-Monday:   Colin, Celeen, Xander, Stuart
-Tuesday:  Ajay, Zach, Matt, Spencer
+- Thursday: Andy, John, Hing, Natalie
+- Friday:   Tyler, Travis, Osama, Martin
+- Monday:   Colin, Celeen, Xander, Stuart
+- Tuesday:  Ajay, Zach, Matt, Spencer
 
 **Daily Guides:**
 
