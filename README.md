@@ -15,7 +15,7 @@ You will work in these groups until final projects begin.
 4. Hing, Matt, Tyler, Spencer
 5. John, Phil, Osama
 
-** Lightning Talks **
+**Lightning Talks:**
 
 - Thursday: Andy, John, Hing, Natalie
 - Friday:   Tyler, Travis, Osama, Martin
