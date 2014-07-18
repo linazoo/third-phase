@@ -1,4 +1,4 @@
-# Welcome to Thunderdome!
+# Welcome to the Thunderdome!
 
 You've spent the last 2 days building an application with your group. We've asked that you focus on quality (full testing) rather than producing a laundry list of features. Today we'll put that discipline to the test.
 
