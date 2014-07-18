@@ -4,11 +4,11 @@ You've spent the last 2 days building an application with your group. We've aske
 
 ## Step 1: Swap projects
 
-Group 1 -> Group 3
-Group 2 -> Group 4
-Group 3 -> Group 5
-Group 4 -> Group 1
-Group 5 -> Group 2
+* Group 1 -> Group 3
+* Group 2 -> Group 4
+* Group 3 -> Group 5
+* Group 4 -> Group 1
+* Group 5 -> Group 2
 
 E.g. Group 1 should fork Group 3's project and work out of the fork.
 
