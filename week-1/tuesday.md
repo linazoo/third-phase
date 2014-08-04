@@ -21,7 +21,7 @@ With your pair, complete the following challenges.
 
 ### Lecture Topics
 
-- RSpec Intro
-- RSpec - Rails
+- AM: RSpec Intro (Kevin)
+- PM: RSpec - Rails (Mike)
 
 ### Additional Resources
