@@ -1,10 +1,5 @@
 # Week 1: Monday
 
-### Phase 3 Lightning Talk Schedule
-
-- Student
-- Student
-- Student
 
 ### Challenges
 
