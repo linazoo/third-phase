@@ -1,4 +1,4 @@
-# Week 1: Thursday
+# Week 1: Friday
 
 ### Phase 3 Lightning Talk Schedule
 
