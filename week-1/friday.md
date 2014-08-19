@@ -2,10 +2,10 @@
 
 ### Phase 3 Lightning Talk Schedule
 
-- David
-- Jonathan
-- Ismail
-- Simon
+- Student
+- Student
+- Student
+- Student
 
 ### Challenges
 
