@@ -2,20 +2,17 @@
 
 ### Phase 3 Lightning Talk Schedule
 
-- Lienha
-- Jen
-- Adrian
-- Max
+- Student
+- Student
+- Student
+- Student
 
 ### Challenges
 
 ##### Core Challenges
+
 With your group, complete the following challenges.
 
 - Continue your DBC Overflow project
-
-### Lecture Topics
-
-- Travis-CI and Coveralls
 
 ### Additional Resources
