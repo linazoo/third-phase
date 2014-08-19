@@ -2,14 +2,15 @@
 
 ### Phase 3 Lightning Talk Schedule
 
-- Francisco
-- Jeremy
-- Steve
-- Andrew
+- Student
+- Student
+- Student
+- Student
 
 ### Challenges
 
 ##### Core Challenges
+
 With your pair, complete the following challenges.
 
 - [TDD Telephone](../../../../tdd-telephone-challenge)
@@ -21,7 +22,7 @@ With your pair, complete the following challenges.
 
 ### Lecture Topics
 
-- AM: RSpec Intro (Kevin)
-- PM: RSpec - Rails (Mike)
+- AM: RSpec Intro
+- PM: RSpec - Rails + Integration Testing
 
 ### Additional Resources
