@@ -9,10 +9,6 @@
 
 You will work in these groups until final projects begin.
 
-1. Jonathan Young, Andrew Adams, Max Diener, Timothy Howard
-2. Joseph Webb, Francisco Scala, Jennifer Oseitutut, David Hwang
-3. Spencer Zhang, Steve Loar, Adrian Tawadros, Ismail Kalimi
-4. Jeremy Wong, Lienha Carleton, Quy Tran, Simon Gondeck
 
 **Lightning Talks:**
 
