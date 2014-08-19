@@ -2,14 +2,15 @@
 
 ### Phase 3 Lightning Talk Schedule
 
-- Jeremy
-- Max 
-- Joe
-- Steve
+- Student
+- Student 
+- Student
+- Student
 
 ### Challenges
 
 ##### Core Challenges
+
 With your pair, complete the following challenges.
 
 - [Behaviour Drill: Grocery List](../../../../behavior-drill-grocery-list-challenge)
