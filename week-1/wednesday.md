@@ -2,14 +2,15 @@
 
 ### Phase 3 Lightning Talk Schedule
 
-- Joe
-- Qui
-- Spencer
-- Tim
+- Student
+- Student
+- Student
+- Student
 
 ### Challenges
 
 ##### Core Challenges
+
 With your group, complete the following challenges.
 
 - [DBC Overflow](../../../../overflow-challenge)
@@ -23,6 +24,6 @@ With your group, complete the following challenges.
 
 ### Lecture Topics
 
-- Agile Methodology
+- **Coding with Care** - looking after your sizable and long-running project.
 
 ### Additional Resources
