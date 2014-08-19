@@ -14,7 +14,7 @@
 
 ### Lecture Topics
 
-- Lecturer's Choice - one lecture from each of your leads, designed to help you in your project cycle.
+- **Lecturer's Choice** - one lecture from each of your leads, designed to help you in your project cycle.
 
 ### Resources
 
