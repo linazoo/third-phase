@@ -2,10 +2,9 @@
 
 ### Phase 3 Lightning Talk Schedule
 
-- Student
-- Student
-- Student
-- Student
+- Group 1
+- Group 2
+- Group 3
 
 ### Challenges
 
