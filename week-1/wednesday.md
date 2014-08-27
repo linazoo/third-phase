@@ -17,10 +17,6 @@ With your group, complete the following challenges.
   Your group is not required to develop a StackOverflow clone.  However, you must build an app with roughly equal complexity to the overflow challenge.  If you wish to build a custom app, get approval from your instructors.
 
 
-##### Microchallenge
-
-- [Rails routing](../microchallenges/wk1-d3-rails-routing.md)
-
 ### Lecture Topics
 
 - **Coding with Care** - looking after your sizable and long-running project.
