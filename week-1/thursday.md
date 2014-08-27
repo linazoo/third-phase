@@ -14,4 +14,6 @@ With your group, complete the following challenges.
 
 - Continue your DBC Overflow project
 
+After Lunch: [Refactor This](../../../../refactor-this-challenge)
+
 ### Additional Resources
