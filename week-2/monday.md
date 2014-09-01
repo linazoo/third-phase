@@ -1,11 +1,6 @@
 # Week 2: Monday
 
-### Phase 3 Lightning Talk Schedule
-
-- Student
-- Student
-- Student
-- Student
+### 5 Day Project Demos
 
 ### Challenges
 
