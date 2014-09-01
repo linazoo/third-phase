@@ -8,7 +8,7 @@ In this microchallenge you'll be working with the same person you've been pairin
 
 ## Challenge
 
-Start by pulling down one of your DBC codebases and setting up memcached locally using the [Dalli memcached client](https://github.com/mperham/dalli). This might be a little bit difficult. #DealWithIt (hint: read the docs, ask your friends, google, stack overflow, find code examples)
+Start by pulling down one of your DBC codebases and setting up memcached locally using the [Dalli memcached client](https://github.com/mperham/dalli). This might be a little bit difficult. Be sure to test the fundementals of setting key/values in the terminal before adding memcache to your full webapp stack.
 
 Verify your Memcached/Dalli setup by booting up Rails console and typing:
 
