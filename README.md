@@ -3,9 +3,6 @@
 ### Prep:
 - [Weekend](phase-3-prep/weekend-prep.md)
 
-**Groups:**
-[Groups](../../wiki/Groups) You will work in these groups until final projects begin.
-
 ### Week 1:
 
 **Lightning Talks:**
