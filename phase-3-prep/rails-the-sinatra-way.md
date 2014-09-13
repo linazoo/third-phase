@@ -171,7 +171,7 @@ Now, refresh `localhost:3000`. You should see something like this:
 Tada!  Rails isn't so bad right?
 You have just built a basic Rails app the Sinatra way.
 
-I would encourage you to revisit your [Deaf Grandma](/otters-2014/deaf-sinatra-1-synchronous-forms-challenge) challenge and try to add the remaining functionality.  The goal here is to give you a safe spot to fallback on when the Rails way gets crazy.
+I would encourage you to revisit your [Deaf Grandma](../../../../deaf-sinatra-1-synchronous-forms-challenge) challenge and try to add the remaining functionality.  The goal here is to give you a safe spot to fallback on when the Rails way gets crazy.
 
 Just remember, at the end of the day, you are just doing what you have been doing all along.  Rails is just tries to automate as much as possible for you, so you can stop worrying about the boring details.
 
