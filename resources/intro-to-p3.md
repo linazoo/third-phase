@@ -10,7 +10,7 @@ until graduation day. Be ready to give your all as you push toward demo day.
 You'll get the most out of this if you stay curious, hold yourself and your
 peers to high standards, and most importantly support each other.
 
-During Phase 3, you'll be treated like professional developers.  By now your ability to teach yourself should be at a high level, and we'll be expecting you to use it and share the fruits of your learning with everyone in the cohort. Expect less support from your instructors, as over the next three weeks you're going to be developing habits that will serve you for the rest of your career. We place more value on quality code and great teamwork than on quantity of features.
+During Phase 3, you'll be treated like professional developers.  By now your ability to teach yourself should be at a high level, and we'll be expecting you to use it and share the fruits of your learning with everyone in the cohort. Your instructors will be occupying a mentorship roll, much like a senior engineer on a team. Over the next three weeks you're going to be developing habits that will serve you for the rest of your career. We place more value on quality code and great teamwork than on quantity of features.
 
 ## Working Agreement
 
