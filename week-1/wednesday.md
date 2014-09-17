@@ -2,9 +2,7 @@
 
 ### Phase 3 Lightning Talk Schedule
 
-- Group 4
-- Group 5
-- Group 6
+Four presenters
 
 ### Challenges
 
