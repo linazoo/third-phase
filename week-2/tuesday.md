@@ -1,12 +1,5 @@
 # Week 2: Tuesday
 
-### Phase 3 Lightning Talk Schedule
-
-- Student
-- Student 
-- Student
-- Student
-
 ### Challenges
 
 ##### Core Challenges
