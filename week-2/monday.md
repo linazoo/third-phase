@@ -13,8 +13,11 @@ With your pair, complete the following challenges.
 
 - [Memcache](../microchallenges/wk2-d1-memcache.md)
 
+### Pitch workshop
+
+We'll workshop pitch ideas in preparation for pitch day.
+
 ### Lecture Topics
 
 - Web Performance
 
-### Additional Resources
