@@ -1,7 +1,7 @@
 # Phase 3 Guide
 
 Welcome to Phase 3. Winter is here.  
-![](http://media.giphy.com/media/D7dIjnEHoqnwk/giphy.gif)
+![](https://38.media.tumblr.com/70ac07bf09b1d02a44c0dffb794113a3/tumblr_mxv5ccm4Gp1save0go1_500.gif)
 
 ### Prep:
 - [Weekend](phase-3-prep/weekend-prep.md)
