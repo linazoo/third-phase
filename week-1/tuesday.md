@@ -11,7 +11,7 @@ With your pair, complete the following challenges.
 
 ##### After Hours
 
-- [Git With It](../../../../git-with-it)
+- [Git With It](../../../../git-with-it) - If you still feel rusty on git, here's an opportunity to redo this challenge.
 
 ### Lecture Topics
 
