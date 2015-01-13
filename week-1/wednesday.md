@@ -1,8 +1,8 @@
 # Week 1: Wednesday
 
-### Phase 3 Lightning Talk Schedule
+### Lecture
 
-Four presenters
+The Lifecycle of a Project
 
 ### Challenges
 
