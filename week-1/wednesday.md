@@ -2,7 +2,8 @@
 
 ### Lecture
 
-The Lifecycle of a Project: a walkthrough of best practices and tools used when creating projects.
+**The Lifecycle of a Project**  
+A walkthrough of best practices and tools used when creating projects.
 
 ### Challenges
 
