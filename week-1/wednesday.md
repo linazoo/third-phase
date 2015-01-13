@@ -2,7 +2,7 @@
 
 ### Lecture
 
-The Lifecycle of a Project
+The Lifecycle of a Project: a walkthrough of best practices and tools used when creating projects.
 
 ### Challenges
 
@@ -11,5 +11,3 @@ The Lifecycle of a Project
 With your group, complete the following challenges.
 
 - [DBC Overflow](../../../../overflow-challenge)
-
-  Your group is not required to develop a StackOverflow clone.  However, you must build an app with roughly equal complexity to the overflow challenge.  If you wish to build a custom app, get approval from your instructors.
