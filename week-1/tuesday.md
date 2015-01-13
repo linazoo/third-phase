@@ -15,7 +15,7 @@ With your pair, complete the following challenges.
 
 ### Lecture Topics
 
-- AM: RSpec Intro
-- PM: RSpec - Rails + Integration Testing
+- AM: RSpec, TDD & Stubs
+- PM: Breakout on Rails helper tags
 
 ### Additional Resources
