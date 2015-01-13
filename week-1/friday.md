@@ -3,8 +3,7 @@
 ### Challenges
 
 ##### Core Challenges
-With your group, complete the following challenges.
+With your group, continue your DBC Overflow project.
 
-- Continue your DBC Overflow project
 - 10AM: Instructor Reviews
 - 4PM: Demos / Wrap Up
