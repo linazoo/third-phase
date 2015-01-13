@@ -24,6 +24,9 @@ Welcome to Phase 3. Winter is here.
 - [Thursday](week-1/thursday.md)
 - [Friday](week-1/friday.md)
 
+
+- [Weekend](week-1/weekend.md)
+
 ### Week 2:
 
 **Groups:**
