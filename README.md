@@ -5,9 +5,17 @@ Welcome to Phase 3. Winter is here.
 
 ### Groups
 
+#### Week 1
+
 1. Matthew S DuBois, DJ DeWitt, Armando Bulnes Jr.  
 2. Sean Owiecki, Jamie Pilgrim, Nirag Amin, Vianney Willot  
 3. Steven An, Luke Zdanowicz, Bane Srdjevic, Nodira Berdieva
+
+#### Week 2
+
+1. Armando Bulnes Jr., Luke Zdanowicz, Sean Owiecki
+2. Matthew S DuBois, Nodira Berdieva, Steven An, Vianney Willot
+3. Bane Srdjevic, DJ DeWitt, Jamie Pilgrim, Nirag Amin
 
 ### Prep:
 - [Weekend](phase-3-prep/weekend-prep.md)
