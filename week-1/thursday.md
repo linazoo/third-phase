@@ -1,18 +1,13 @@
 # Week 1: Thursday
 
-### Phase 3 Lightning Talk Schedule
+### Lecture
 
-- Group 1
-- Group 2
-- Group 3
+No lecture.
 
 ### Challenges
 
 ##### Core Challenges
 
-With your group, complete the following challenges.
+With your group, continue your DBC Overflow project.
 
-- AM & Afternoon: Continue your DBC Overflow project
-- After Lunch: [Refactor This](../../../../refactor-this-challenge)
-
-### Additional Resources
+- 3pm / 4pm: Instructor Reviews

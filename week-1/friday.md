@@ -1,16 +1,14 @@
 # Week 1: Friday
 
-### Phase 3 Lightning Talk Schedule
+### Lecture
 
-- Group 4
-- Group 5
-- Group 6
+No lecture.
 
 ### Challenges
 
 ##### Core Challenges
-With your group, complete the following challenges.
 
-- Continue your DBC Overflow project
+With your group, continue your DBC Overflow project.
 
-### Additional Resources
+- 10AM: Instructor Reviews
+- 4PM: Demos / Wrap Up

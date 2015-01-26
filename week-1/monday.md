@@ -1,27 +1,26 @@
 # Week 1: Monday
 
+### Lecture
+
+- Rails Intro
 
 ### Challenges
 
 ##### Core Challenges
+
 With your pair, complete the following challenges.
 
 - [Sinatra to Rails](../../../../sinatra-to-rails-pick-1-of-3-challenge)
 
   Be sure to cover ...
   - Routing: named routes, url helpers
-  - CRUD using form_for
-  - link_to with :method => :delete
-  - Mass assignment / strong parameters
-
+  - CRUD using `form_for`
+  - `link_to` with `:method => :delete`
+  - Strong Parameters
 
 ##### After Hours
 
 - [RSpec Intro](../../../../phase-3-rspec-intro-challenge)
-
-### Lecture Topics
-
-- Rails Intro
 
 ### Additional Resources
 
