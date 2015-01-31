@@ -2,7 +2,13 @@
 
 ### Lecture
 
-No lecture.
+AM:
+- Railsy Talks
+- in-person, instructor group code reviews
+
+PM:
+- EOD group project demos
+- EOD wrap up session
 
 ### Challenges
 
@@ -10,5 +16,3 @@ No lecture.
 
 With your group, continue your DBC Overflow project.
 
-- 10AM: Instructor Reviews
-- 4PM: Demos / Wrap Up

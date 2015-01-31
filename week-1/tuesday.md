@@ -2,8 +2,14 @@
 
 ### Lectures
 
-- AM: RSpec, TDD & Stubs
-- PM: Breakout on Rails helper tags
+AM:
+- Rails Q & A
+- Railsy Talks
+
+PM:
+- Rspec Q&A
+- Intro to Rspec & Rails (models & controllers)
+- Intro to Integration Testing (end of day)
 
 ### Challenges
 
@@ -11,10 +17,14 @@
 
 With your pair, complete the following challenges.
 
+AM:
 - [TDD Telephone](../../../../tdd-telephone-challenge)
-- [Rails / Rspec Challenge](../../../../rails-with-rspec-challenge)
+
+PM:
+- [Rocket, Paper-plane, Scissors Rails with Rspec
+Challenge](../../../../rocket-paperplane-scissors-challenge) 
 
 ##### After Hours
 
-- Complete [Git With It](../../../../git-with-it) if you still feel rusty on git.
-- Complete the [Rails Routing](../microchallenges/wk1-d3-rails-routing.md) microchallenge.
+- **Required** Finish challenge, including Release 3 (integration testing)
+- *Stretch*: [Rails microchallenges](../microchallenges/rails-microchallenges.md)

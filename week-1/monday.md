@@ -1,10 +1,18 @@
 # Week 1: Monday
 
+### Prep
+
+- Read the [section in the Overview on Rails](../resources/intro-to-p3.md#on-rails).
+- Choose [Railsy Talk Topic](./railsy_talk_topics.md)
+- Prepare questions on Rails
+
 ### Lecture
 
-- Rails Intro
+- Rails Q & A
 
 ### Challenges
+
+**Note: You are NOT allowed to use Rails generators this week**
 
 ##### Core Challenges
 
@@ -21,6 +29,10 @@ With your pair, complete the following challenges.
 ##### After Hours
 
 - [RSpec Intro](../../../../phase-3-rspec-intro-challenge)
+- Watch [Intro to TDD](https://talks.devbootcamp.com/rspec-intro)
+- _Prepare at least 5 questions *each* on Rails & Rspec_
+- *Stretch*: [Rails microchallenges](../microchallenges/rails-microchallenges.md)
+
 
 ### Additional Resources
 
