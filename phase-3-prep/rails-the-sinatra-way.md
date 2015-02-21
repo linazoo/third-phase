@@ -41,7 +41,7 @@ After running `rails server`, you can visit `localhost:3000` now and see the nor
 
 ## Deaf Grandma on Rails
 
-Yes, she's back.  Maybe because it is a great example for comparison to [our skeleton](https://github.com/nighthawks-2014/sinatra_skeleton_mvc), or maybe it is because I'm just not that creative.  Either way, let's get moving.
+Yes, she's back.  Maybe because it is a great example for comparison to [our skeleton](../../../../sinatra-skeleton-mvc-challenge), or maybe it is because I'm just not that creative.  Either way, let's get moving.
 
 ### Routing
 
