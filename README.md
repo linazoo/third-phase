@@ -1,26 +1,41 @@
 # Phase 3 Guide
 
 Welcome to Phase 3. Winter is here.  
+
 ![](https://38.media.tumblr.com/70ac07bf09b1d02a44c0dffb794113a3/tumblr_mxv5ccm4Gp1save0go1_500.gif)
 
-### Prep:
-- [Weekend](phase-3-prep/README.md)
+**[Groups](../../wiki/groups)**
 
-### Week 1:
+## Pre-work
 
-**Daily Guides:**
+[To be completed](phase-3-prep/README.md) the weekend between Phase 2 and Phase 3
 
-- [Monday](week-1/monday.md)
-- [Tuesday](week-1/tuesday.md)
-- [Wednesday](week-1/wednesday.md)
-- [Thursday](week-1/thursday.md)
-- [Friday](week-1/friday.md)
-- [Weekend](week-1/weekend.md)
+## Course Outline
 
-### Week 2:
+<table>
+  <tr>
+    <td><b>Week 1</b></td>
+    <td><a href="week-1/monday.md">Monday</a></td>
+    <td><a href="week-1/tuesday.md">Tuesday</td>
+    <td><a href="week-1/wednesday.md">Wednesday</td>
+    <td><a href="week-1/thursday.md">Thursday</td>
+    <td><a href="week-1/friday.md">Friday</td>
+    <td><a href="week-1/weekend.md">Weekend</td>
+  </tr>
+  <tr>
+    <td><b>Week 2</b></td>
+    <td><a href="week-2/monday.md">Monday</td>
+    <td><a href="week-2/tuesday.md">Tuesday</td>
+    <td><a href="week-2/wednesday.md">Wednesday</td>
+  </tr>
+</table>
 
-**Daily Guides:**
 
-- [Monday](week-2/monday.md)
-- [Tuesday](week-2/tuesday.md)
-- [Wednesday](week-2/wednesday.md)
+## Weekly Cadence
+
+- Yoga: Thursday (mandatory in Week 1, optional in Weeks 2 & 3)
+
+## Daily Cadence
+
+- Standup every morning of projects immediately following 8am standup
+- Standup every afternoon at 4.45pm
