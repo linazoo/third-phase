@@ -43,4 +43,4 @@ With your pair, complete the following challenges.
   - [Asset Pipeline](http://guides.rubyonrails.org/asset_pipeline.html)
   - [Strong Parameters](http://edgeguides.rubyonrails.org/action_controller_overview.html#strong-parameters)
 - [Rails cheatsheet](http://courseware.codeschool.com/rails_for_zombies_2_cheatsheets.pdf)
-- [Git workflow](../resources/github_workflow.md)
+- [Git workflow](../resources/git-workflow.md)
