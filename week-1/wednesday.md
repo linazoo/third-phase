@@ -1,5 +1,5 @@
 # Week 1: Wednesday
-[Group assignments](../../wiki)
+[Group assignments](../../../wiki)
 
 ### Lecture
 
@@ -17,7 +17,7 @@ PM:
 ##### Core Challenges
 
 *Choose Your Own Adventure [group
- project](../group_project_process.md) - check out [this
+ project](../resources/group_project_process.md) - check out [this
 example](../../../../overflow-challenge). You should create a group
 project with roughly equal complexity to the overflow challenge.*
 

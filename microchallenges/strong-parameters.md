@@ -27,7 +27,6 @@ def post_params
 end
 ```
 
-
 Seems safe, right? And the following form in our view ``new.html.erb``:
 
 ```
@@ -65,14 +64,11 @@ end
 
 Now we're safe.
 
-
 ## Mass assignment
-
-
 
 Note: `strong_parameters` were introduced in Rails 4.  The Rails 3 way to do this is `mass_assignment`.  You might work on a Rails 3 app.  
 
-Take a look at the [mass_assignment microchallenge](./mass_assignment_vulernability.md) now.
+Take a look at the [mass_assignment microchallenge](./mass-assignment.md) now.
 
 Read more
 

@@ -22,7 +22,7 @@ With your pair, complete the following challenges.
 
 ##### Microchallenges
 
-- [Persistence](../microchallenges/wk2-d2-persistence.md)
+- [Persistence](../microchallenges/persistence.md)
 
 ### Additional Resources
 

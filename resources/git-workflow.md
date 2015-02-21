@@ -42,7 +42,7 @@ git remote add upstream https://github.com/COHORT_ORG/PROJECT_NAME
 #### README
 README should contain the following:
 * Name of project
-* Names and github handle for poeple on the team
+* Names and github handle for people on the team
 * Description of project
 * How to install the code locally
 * How to use the app

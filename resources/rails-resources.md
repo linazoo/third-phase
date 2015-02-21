@@ -2,7 +2,7 @@
 
 ## Tutorials, videos, & notes
 * Watch [Intro to Rails
-lecture](https://talks.devbootcamp.com/2014-coyotes-intro-to-rails)
+lecture by Nate](https://talks.devbootcamp.com/rails-intro-1) or [Intro to Rails by Mike](https://talks.devbootcamp.com/2014-coyotes-intro-to-rails)
 * Go through code school's [Rails for Zombies redux](https://www.codeschool.com/courses/rails-for-zombies-redux) and [Rails for Zombies 2](https://www.codeschool.com/courses/rails-for-zombies-2). Some of it might be repetitive, just skip/skim. The main focus today is to expose yourselves to as many Rails 'things' as possible. Tomorrow we start building.
 * Go through these [Rails intro notes](https://github.com/devbootcamp/intro_to_rails) from a Chicago boot
 
