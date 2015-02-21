@@ -63,7 +63,7 @@ _*Building maintainable code*_. Your code will be judged not by its novelty and 
 
 _*Learning with intention*_. When you graduate from Dev Bootcmap, your value isn't what you know. Its how you learn. Can you learn new tools quickly, and utilize them well? Can you seek out and decipher documentation on your own? Can you ask for and recieve help when you need it? These are the behaviors of great developers, and you should start practicing them now. You will all learn the complex Rails API over the next few weeks, and likely a half dozen others throughout your final project.
 
-By the end of this phase, you will be a junior developer. We don't expect you to produce beautiful code on your first try, one your second try, or even your tenth. We expect that you will be able to recognize patterns and behaviors, and formulate intelligent opinions on them. We expect that you will learn new tools and methodologies with confidence and speed. We expect that you will push yourself to live up to these standards, and, eventually, build beautiful and meaningful things.
+By the end of this phase, you will be a junior developer. We don't expect you to produce beautiful code on your first try, on your second try, or even your tenth. We expect that you will be able to recognize patterns and behaviors, and formulate intelligent opinions on them. We expect that you will learn new tools and methodologies with confidence and speed. We expect that you will push yourself to live up to these standards, and, eventually, build beautiful and meaningful things.
 
 ## On Rails
 
