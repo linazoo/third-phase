@@ -15,5 +15,5 @@ prepare your lightning talk
 
 Either with a pair or solo, complete the following challenges.
 
-- [Karmaville Challenge](../../../../karmaville)
+- [Karmaville Challenge](../../../../karmaville-challenge)
 - *Stretch*: [Rails microchallenges](#rails-microchallenges)
