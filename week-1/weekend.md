@@ -4,8 +4,8 @@
 
 - Write a blog post tutorial on your Railsy Talk Topic.  Add a link to
 your blog post on the wiki.
-- Choose a [Gemsy Talk Topic](../resources/gemsy-talk-topic.md) and
-prepare your lightning talk (using Gem within a Rails app)
+- Choose a Gemsy Talk Topic (using a Gem within a Rails app) and
+prepare your lightning talk
 
 ### Lecture (on `talks.devbootcamp.com`)
 
