@@ -1,5 +1,5 @@
 # Week 1: Wednesday
-[Group assignments](../../wiki)
+[Group assignments](../../../wiki)
 
 ### Lecture
 
