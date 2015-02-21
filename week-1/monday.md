@@ -3,7 +3,7 @@
 ### Prep
 
 - Read the [section in the Overview on Rails](../resources/intro-to-p3.md#on-rails).
-- Choose [Railsy Talk Topic](./railsy_talk_topics.md)
+- Choose [Railsy Talk Topic](../resources/railsy_talk_topics.md)
 - Prepare questions on Rails
 
 ### Lecture
@@ -43,4 +43,4 @@ With your pair, complete the following challenges.
   - [Asset Pipeline](http://guides.rubyonrails.org/asset_pipeline.html)
   - [Strong Parameters](http://edgeguides.rubyonrails.org/action_controller_overview.html#strong-parameters)
 - [Rails cheatsheet](http://courseware.codeschool.com/rails_for_zombies_2_cheatsheets.pdf)
-- [Git workflow](./resources/github_workflow.md)
+- [Git workflow](../resources/github_workflow.md)
