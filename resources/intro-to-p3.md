@@ -1,6 +1,6 @@
 # Introduction to Phase 3
 
-[Groups, Resources, and more!](../../wiki)
+[Groups, Resources, and more!](../../../wiki)
 
 ### Table of contents
 * [Welcome](#welcome)
