@@ -93,7 +93,3 @@ used for testing is difficult.
 - All our challenge solutions/repos should be under cohort organization.
 - Make sure you review [Phase 3 Git Workflow](./git-workflow.md#phase-3-github-workflow) and [Group Project
 Process](./group_project_process.md)
-
-![quote by Ira Glass on beginners](ira-glass-quote.jpg)
-
--- Ira Glass
