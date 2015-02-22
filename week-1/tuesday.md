@@ -3,13 +3,11 @@
 ### Lectures
 
 AM:
-- Rails Q & A
-- Railsy Talks
+- Client Side MVC
 
 PM:
-- Rspec Q&A
-- Intro to Rspec & Rails (models & controllers)
-- Intro to Integration Testing (end of day)
+- Railsy Talks
+- RSpec mocks & stubs (end of day)
 
 ### Challenges
 
@@ -18,13 +16,10 @@ PM:
 With your pair, complete the following challenges.
 
 AM:
-- [TDD Telephone](../../../../tdd-telephone-challenge)
-
-PM:
-- [Rocket, Paper-plane, Scissors Rails with Rspec
-Challenge](../../../../rocket-paperplane-scissors-challenge) 
+- [lil Twitter](../../../../lil-twitter-challenge)
 
 ##### After Hours
 
-- **Required** Finish challenge, including Release 3 (integration testing)
-- *Stretch*: [Rails microchallenges](../microchallenges/rails-microchallenges.md)
+- [RSpec Intro](../../../../phase-3-rspec-intro-challenge)
+- Watch [Intro to TDD](https://talks.devbootcamp.com/rspec-intro)
+- _Prepare at least 5 questions *each* on Rails & Rspec_

@@ -4,11 +4,6 @@
 
 AM:
 - Railsy Talks
-- in-person, instructor group code reviews
-
-PM:
-- EOD group project demos
-- EOD wrap up session
 
 ### Challenges
 
