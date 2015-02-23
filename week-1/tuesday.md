@@ -16,7 +16,7 @@ PM:
 With your pair, complete the following challenges.
 
 AM:
-- [lil Twitter](../../../../lil-twitter-challenge)
+- [lil Twitter](../../../../lil-twitter-challenge) **Don't worry about testing your JS with Jasmine.** We'll introduce Jasmine in a lecture on Thursday. Focus on writing the best client side MVC code you can.
 
 ##### After Hours
 
