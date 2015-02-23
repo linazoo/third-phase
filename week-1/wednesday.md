@@ -4,27 +4,23 @@
 ### Lecture
 
 AM:
-- Railsy Talks
-- Lecture/Workshop: Choose Project & Group Project Process
-- Workshop: Trello, user stories, and README
+- RSpec Q&A
+- Rails Integration Testing
 
 PM:
 - Railsy Talks
-- Design & Front-end Workshop
 
 ### Challenges
 
 ##### Core Challenges
 
-*Choose Your Own Adventure [group
- project](../resources/group_project_process.md) - check out [this
-example](../../../../overflow-challenge). You should create a group
-project with roughly equal complexity to the overflow challenge.*
+- [Rocket, Paper-plane, Scissors Rails with Rspec
+Challenge](../../../../rocket-paperplane-scissors-challenge)
+- [Rails with RSpec](../../../..//rails-with-rspec-challenge)
 
-This project must be created **with TDD** and use the **[group
-project process](../resources/group_project_process.md)** 
+##### After Hours
+- *Stretch*: [Rails microchallenges](../microchallenges/rails-microchallenges.md)
 
-#####
 - Read up on good commit messages
     - [5 Tipes for a Better Commit Message](http://robots.thoughtbot.com/5-useful-tips-for-a-better-commit-message)
     - [Git Commit Message Suggestions](http://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html)

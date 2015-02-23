@@ -7,13 +7,8 @@ your blog post on the wiki.
 - Choose a Gemsy Talk Topic (using a Gem within a Rails app) and
 prepare your lightning talk
 
-### Lecture (on `talks.devbootcamp.com`)
-
-- [Web Performance](https://talks.devbootcamp.com/web-performance-3)
-
 ### Challenges
+With your group, continue your DBC Overflow project. You'll be sharing your
+projects on Monday morning.
 
-Either with a pair or solo, complete the following challenges.
-
-- [Karmaville Challenge](../../../../karmaville-challenge)
 - *Stretch*: [Rails microchallenges](#rails-microchallenges)
