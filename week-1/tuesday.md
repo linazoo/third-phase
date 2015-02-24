@@ -21,5 +21,4 @@ AM:
 ##### After Hours
 
 - [RSpec Intro](../../../../phase-3-rspec-intro-challenge)
-- Watch [Intro to TDD](https://talks.devbootcamp.com/rspec-intro)
 - _Prepare at least 5 questions *each* on Rails & Rspec_
