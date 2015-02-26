@@ -6,7 +6,7 @@ __Definition:__ _the practice of frequently integrating one's new or changed cod
 
 Merging new code into master often sounds awesome, but we've been learning the value of testing and the importance of a passing test __suite__.
 
-__But,__ as your projects grow, your test suite should grow as well. We're all lazy and forget to run the entire test suite everytime we create a new commit. For large projects, running the entire test suite can take _hours_. So we do what all lazy people do, make a computer to the work for us.
+__But,__ as your projects grow, your test suite should grow as well. We're all lazy and forget to run the entire test suite everytime we create a new commit. For large projects, running the entire test suite can take _hours_. So we do what all lazy people do, make a computer do the work for us.
 
 ### But Nate, I just wanna merge!
 
@@ -14,7 +14,7 @@ __But,__ as your projects grow, your test suite should grow as well. We're all l
 
 ### Super Build Server to your rescue
 
-A build server will be responsible to run the entire test suite after ever commit and let you know if any tests failed. That way when your change to the `User` model breaks the `Vote` creation integration test, you'll be notified (email) without having to run every test yourself.
+A build server will be responsible to run the entire test suite after every commit and let you know if any tests failed. That way when your change to the `User` model breaks the `Vote` creation integration test, you'll be notified (email) without having to run every test yourself.
 
 If your build passes, then you know you're ready to merge into master.
 
