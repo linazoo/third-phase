@@ -6,9 +6,6 @@ AM:
 - Railsy Talks
 - The Lifecycle of a Project
 
-PM:
-- JS Testing with Jasmine
-
 ### Challenges
 
 ##### Core Challenges
