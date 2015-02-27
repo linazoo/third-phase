@@ -4,6 +4,7 @@
 
 AM:
 - Railsy Talks
+- JS Testing with Jasmine
 
 ### Challenges
 
