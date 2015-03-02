@@ -15,7 +15,3 @@ With your pair, complete the following challenges.
 
 - [Karmaville Challenge](../../../../karmaville-challenge)
 - [Responsive Design](../microchallenges/responsive-design.md)
-
-##### Microchallenges
-
-- [Persistence](../microchallenges/persistence.md)
