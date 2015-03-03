@@ -2,8 +2,8 @@
 
 ### Lecture
 
-No lecture.
+AM: Jasmin
 
 ### Challenges
 
-- [Pairing is Caring Challenge](../../../../pairing-is-caring-challenge)
+- [Jasmine MVC](../../../../jasmine-mvc-challenge)
