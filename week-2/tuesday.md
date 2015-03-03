@@ -2,7 +2,7 @@
 
 ### Lecture
 
-AM: Jasmin
+AM: Jasmine
 
 ### Challenges
 
