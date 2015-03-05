@@ -38,7 +38,7 @@
 
 ## Day 8 - Wednesday
 
-* UI/UX Review (Jonathan)
+* UI/UX Review
 * Feature Freeze (no new features)
 * Presentation: Outline
 
@@ -56,4 +56,4 @@
 * Sleep, eat, commicerate (no drinking) - 1:00pm - 3:30pm
 * Last DBC Rite of Passage - 3:30pm
 * Graduate - 4:30pm
-* Celebrate (TACOS AND BEER!) - 5:00pm
+* Celebrate - 5:00pm
