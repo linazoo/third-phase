@@ -11,9 +11,6 @@
 AM:
 - Rails Q & A
 
-PM:
-- Rails Helpers
-
 ### Challenges
 
 **Note: You are NOT allowed to use Rails generators this week**
