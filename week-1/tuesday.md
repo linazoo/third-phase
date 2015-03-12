@@ -3,7 +3,7 @@
 ### Lectures
 
 AM:
-- Client Side MVC
+- RSpec - Integration Testing & Mocks and Stubs
 
 PM:
 - Railsy Talks
