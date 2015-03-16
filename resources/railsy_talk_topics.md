@@ -1,5 +1,5 @@
 # DO NOT MODIFY THIS FILE
-Choose your topic on the [wiki](../../../wiki/railsy-talk-topics)
+Choose your topic on the [wiki](../../../wiki/Railsy-Topics)
 
 ## Railsy Talk Topics
 
@@ -13,9 +13,6 @@ Your talk should include:
 
 Your talk should be **5-10** minutes and should be prepared in
 advance.
-
-# DO NOT MODIFY THIS FILE
-Choose your topic on the [wiki](../../../wiki/railsy-talk-topics)
 
 ### Topics
 
