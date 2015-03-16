@@ -2,8 +2,8 @@
 
 ### Lecture
 
-AM: Jasmine
+AM: MVC JavaScript (Backbone)
 
 ### Challenges
 
-- [Jasmine MVC](../../../../jasmine-mvc-challenge)
+- [lil Twitter](../../../../lil-twitter-challenge) **Don't worry about testing your JS with Jasmine.** We'll introduce Jasmine in a lecture on Thursday. Focus on writing the best client side MVC code you can.
