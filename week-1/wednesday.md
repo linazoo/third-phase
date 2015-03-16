@@ -5,7 +5,7 @@
 
 AM:
 - RSpec Q&A
-- Rails Integration Testing
+- Jasmine Testing
 
 PM:
 - Railsy Talks
@@ -14,9 +14,7 @@ PM:
 
 ##### Core Challenges
 
-- [Rocket, Paper-plane, Scissors Rails with Rspec
-Challenge](../../../../rocket-paperplane-scissors-challenge)
-- [Rails with RSpec](../../../..//rails-with-rspec-challenge)
+- [lil Twitter](../../../../lil-twitter-challenge) **Don't worry about testing your JS with Jasmine.** We'll introduce Jasmine in a lecture on Thursday. Focus on writing the best client side MVC code you can.
 
 ##### After Hours
 - *Stretch*: [Rails microchallenges](../microchallenges/rails-microchallenges.md)
