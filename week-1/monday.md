@@ -29,6 +29,8 @@ With your pair, complete the following challenges.
 
 ##### After Hours
 
+- *Prep for Tomorrow*: [RSpec Intro](../../../../phase-3-rspec-intro-challenge)
+- _Prepare at least 5 questions *each* on Rails & Rspec_
 - *Stretch*: [Rails microchallenges](../microchallenges/rails-microchallenges.md)
 
 
