@@ -7,7 +7,6 @@ AM:
 
 PM:
 - Railsy Talks
-- RSpec mocks & stubs (end of day)
 
 ### Challenges
 
@@ -16,9 +15,11 @@ PM:
 With your pair, complete the following challenges.
 
 AM:
-- [lil Twitter](../../../../lil-twitter-challenge) **Don't worry about testing your JS with Jasmine.** We'll introduce Jasmine in a lecture on Thursday. Focus on writing the best client side MVC code you can.
+- [Rocket, Paper-plane, Scissors Rails with Rspec
+Challenge](../../../../rocket-paperplane-scissors-challenge)
+- [Rails with RSpec](../../../..//rails-with-rspec-challenge)
 
 ##### After Hours
 
-- [RSpec Intro](../../../../phase-3-rspec-intro-challenge)
-- _Prepare at least 5 questions *each* on Rails & Rspec_
+- *Stretch*: [Rails microchallenges](../microchallenges/rails-microchallenges.md)
+
