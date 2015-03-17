@@ -3,8 +3,10 @@
 ### Lecture
 
 AM:
-- Railsy Talks
 - The Lifecycle of a Project
+
+PM:
+- Railsy Talks
 
 ### Challenges
 
