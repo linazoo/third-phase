@@ -2,7 +2,7 @@
 
 ### Community
 
-- Signup for a Gemsy Talk Topic (using a Gem within a Rails app) [here](../../../../Gemsy-Topic-Schedule) and
+- Signup for a Gemsy Talk Topic (using a Gem within a Rails app) [here](../../../wiki/Gemsy-Topic-Schedule) and
 prepare your lightning talk
 
 ### Challenges
