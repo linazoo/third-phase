@@ -9,4 +9,4 @@ prepare your gemsy talk
 - [Testing with Jasmine](../../../../orange-jasmine-challenge)
   * start from scratch AND fully test it with Jasmine, then submit a pull request
 
-- *Stretch*: [Rails microchallenges](#rails-microchallenges)
+- *Stretch*: Do the Rails microchallenges.
