@@ -5,7 +5,7 @@
 - Web Performance
 
 ### Core Challenges
-- [Karmaville](../../../../karmaville-challenge)
+- [Karmaville](../../../karmaville-challenge)
 
 ##### Final Projects
 
