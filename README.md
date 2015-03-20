@@ -36,4 +36,4 @@ Welcome to Phase 3!
 ## Daily Cadence
 
 - Standup every morning of projects immediately following 8am standup
-- Standup every afternoon at 4.45pm
+- Meditation every afternoon at 4.45pm
