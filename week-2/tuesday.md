@@ -2,8 +2,10 @@
 
 ### Lecture
 
-AM: MVC JavaScript (Backbone)
+AM: Jasmine
+
+PM: Gemsy Talks
 
 ### Challenges
 
-- [lil Twitter](../../../../lil-twitter-challenge) **Focus on writing the best client side MVC code you can.**
+- [Jasmine MVC](../../../../jasmine-mvc-challenge)
