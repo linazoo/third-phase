@@ -1,19 +1,12 @@
 # Week 1: Weekend
 
-### Community
-
-- Write a blog post tutorial on your Railsy Talk Topic.  Add a link to
-your blog post on the wiki.
-- Choose a Gemsy Talk Topic (using a Gem within a Rails app) and
-prepare your lightning talk
-
-### Lecture (on `talks.devbootcamp.com`)
-
-- [Web Performance](https://talks.devbootcamp.com/web-performance-3)
 
 ### Challenges
+- Signup for a Gemsy Talk Topic (using a Gem within a Rails app) [here](../../../wiki/Gemsy-Topic-Schedule) AND
+prepare your gemsy talk
+- Add ONE fully-tested feature to your Rails project (Stack Overflow OR YesAnd) 
+  * Create a pull request to your project (we will be reviewing this next week)
+- [Testing with Jasmine](../../../../orange-jasmine-challenge)
+  * start from scratch AND fully test it with Jasmine, then submit a pull request
 
-Either with a pair or solo, complete the following challenges.
-
-- [Karmaville Challenge](../../../../karmaville-challenge)
-- *Stretch*: [Rails microchallenges](#rails-microchallenges)
+- *Stretch*: Do the Rails microchallenges.

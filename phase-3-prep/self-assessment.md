@@ -58,7 +58,6 @@ While imprisoned by the revolution Dr. Zhivago dreamt of his beloved Lara and
 of RESTful routes.  But in his dream he could not complete this chart.  Please
 help him.
 
-4\.
 The chart below describes RESTful routes, but is incomplete:
 
 HTTP Verb | Path              | Action  | Used for

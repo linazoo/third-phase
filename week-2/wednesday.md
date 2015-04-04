@@ -2,7 +2,10 @@
 
 ### Lecture
 
-- A Tour of JS Frameworks
+- Web Performance
+
+### Core Challenges
+- [Karmaville](../../../../karmaville-challenge)
 
 ##### Final Projects
 

@@ -3,13 +3,10 @@
 ### Lectures
 
 AM:
-- Rails Q & A
-- Railsy Talks
+- RSpec - Integration Testing & Mocks and Stubs
 
 PM:
-- Rspec Q&A
-- Intro to Rspec & Rails (models & controllers)
-- Intro to Integration Testing (end of day)
+- Railsy Talks
 
 ### Challenges
 
@@ -18,13 +15,11 @@ PM:
 With your pair, complete the following challenges.
 
 AM:
-- [TDD Telephone](../../../../tdd-telephone-challenge)
-
-PM:
 - [Rocket, Paper-plane, Scissors Rails with Rspec
-Challenge](../../../../rocket-paperplane-scissors-challenge) 
+Challenge](../../../../rocket-paperplane-scissors-challenge)
+- [Rails with RSpec](../../../..//rails-with-rspec-challenge)
 
 ##### After Hours
 
-- **Required** Finish challenge, including Release 3 (integration testing)
 - *Stretch*: [Rails microchallenges](../microchallenges/rails-microchallenges.md)
+

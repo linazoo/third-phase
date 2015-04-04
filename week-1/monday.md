@@ -8,6 +8,7 @@
 
 ### Lecture
 
+AM:
 - Rails Q & A
 
 ### Challenges
@@ -28,8 +29,7 @@ With your pair, complete the following challenges.
 
 ##### After Hours
 
-- [RSpec Intro](../../../../phase-3-rspec-intro-challenge)
-- Watch [Intro to TDD](https://talks.devbootcamp.com/rspec-intro)
+- *Prep for Tomorrow*: [RSpec Intro](../../../../phase-3-rspec-intro-challenge)
 - _Prepare at least 5 questions *each* on Rails & Rspec_
 - *Stretch*: [Rails microchallenges](../microchallenges/rails-microchallenges.md)
 
