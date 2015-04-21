@@ -1,7 +1,5 @@
 # Phase 3 Guide
 
-Welcome to Phase 3!
-
 **[Groups](../../wiki/groups)**
 
 ## Pre-work
