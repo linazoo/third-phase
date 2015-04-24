@@ -1,5 +1,5 @@
 # DO NOT MODIFY THIS FILE
-Choose your topic on the [wiki](../../../wiki/railsy-talk-topics)
+Choose your topic on the [wiki](https://github.com/chi-rock-doves-2015/phase-3-guide/wiki/Railsy-Talks)
 
 ## Railsy Talk Topics
 
