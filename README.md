@@ -34,4 +34,4 @@
 ## Daily Cadence
 
 - Standup every morning of projects immediately following 8am standup
-- Meditation every afternoon at 4.45pm
+- Standup every afternoon of projects at 4.45pm
