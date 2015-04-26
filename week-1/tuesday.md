@@ -11,19 +11,6 @@ PM:
 - [Rocket, Paper-plane, Scissors Rails with Rspec
 Challenge](../../../../rocket-paperplane-scissors-challenge) 
 
-### Challenges
-
-With your pair, complete the following challenges.
-
-##### Git
-
-- [Git With It](../../../../git-with-it-challenge)
-
-##### RSpec
-
-- [Rocket, Paper-plane, Scissors Rails with Rspec
-Challenge](../../../../rocket-paperplane-scissors-challenge) 
-
 ##### After Hours
 
 - **Required** Finish challenge, including Release 3 (integration testing)
