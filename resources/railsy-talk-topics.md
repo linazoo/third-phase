@@ -1,5 +1,5 @@
 # DO NOT MODIFY THIS FILE
-Choose your topic on the [wiki](https://github.com/chi-rock-doves-2015/phase-3-guide/wiki/Railsy-Talks)
+Choose your topic on the [wiki](../../../wiki/Railsy-Talks)
 
 ## Railsy Talk Topics
 
@@ -15,7 +15,7 @@ Your talk should be **5-10** minutes and should be prepared in
 advance.
 
 # DO NOT MODIFY THIS FILE
-Choose your topic on the [wiki](../../../wiki/railsy-talk-topics)
+Choose your topic on the [wiki](../../../wiki/Railsy-Talks)
 
 ### Topics
 
@@ -58,8 +58,3 @@ minification
 * Rspec stubbing
 * factorygirl gem
 * shoulda-matchers gem
-
-
-
-
-
