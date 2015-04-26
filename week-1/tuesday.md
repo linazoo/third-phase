@@ -1,25 +1,30 @@
 # Week 1: Tuesday
 
-### Lectures
+### Schedule
 
 AM:
-- RSpec - Integration Testing & Mocks and Stubs
+- Railsy Talks
+- [Git With It](../../../../git-with-it-challenge)
 
 PM:
-- Railsy Talks
+- **Lecture: Intro to Integration Testing**
+- [Rocket, Paper-plane, Scissors Rails with Rspec
+Challenge](../../../../rocket-paperplane-scissors-challenge) 
 
 ### Challenges
 
-##### Core Challenges
-
 With your pair, complete the following challenges.
 
-AM:
+##### Git
+
+- [Git With It](../../../../git-with-it-challenge)
+
+##### RSpec
+
 - [Rocket, Paper-plane, Scissors Rails with Rspec
-Challenge](../../../../rocket-paperplane-scissors-challenge)
-- [Rails with RSpec](../../../..//rails-with-rspec-challenge)
+Challenge](../../../../rocket-paperplane-scissors-challenge) 
 
 ##### After Hours
 
-- *Stretch*: [Rails microchallenges](../microchallenges/rails-microchallenges.md)
-
+- **Required** Finish challenge, including Release 3 (integration testing)
+- Finish [Rails microchallenges](../microchallenges/rails-microchallenges.md)
