@@ -4,16 +4,17 @@
 
 - Read the [section in the Overview on Rails](../resources/intro-to-p3.md#on-rails).
 - Choose [Railsy Talk Topic](../resources/railsy_talk_topics.md)
-- Prepare questions on Rails
 
-### Lecture
+### Schedule
 
-AM:
+AM:  
 - Rails Q & A
+- Cores
+
+PM:
+- Cores
 
 ### Challenges
-
-**Note: You are NOT allowed to use Rails generators this week**
 
 ##### Core Challenges
 
@@ -21,18 +22,16 @@ With your pair, complete the following challenges.
 
 - [Sinatra to Rails](../../../../sinatra-to-rails-pick-1-of-3-challenge)
 
-  Be sure to cover ...
-  - Routing: named routes, url helpers
-  - CRUD using `form_for`
-  - `link_to` with `:method => :delete`
-  - Strong Parameters
+  Be sure to use this: [Cool Shit in Rails](../resources/cool-shit-in-rails.md)
 
 ##### After Hours
 
-- *Prep for Tomorrow*: [RSpec Intro](../../../../phase-3-rspec-intro-challenge)
-- _Prepare at least 5 questions *each* on Rails & Rspec_
-- *Stretch*: [Rails microchallenges](../microchallenges/rails-microchallenges.md)
+- [Rails microchallenges](../microchallenges/rails-microchallenges.md)
 
+##### After Hours (refreshers)
+
+- [RSpec Intro](../../../../phase-3-rspec-intro-challenge)
+- Watch [Intro to TDD](https://talks.devbootcamp.com/rspec-intro)
 
 ### Additional Resources
 
@@ -44,3 +43,4 @@ With your pair, complete the following challenges.
   - [Strong Parameters](http://edgeguides.rubyonrails.org/action_controller_overview.html#strong-parameters)
 - [Rails cheatsheet](http://courseware.codeschool.com/rails_for_zombies_2_cheatsheets.pdf)
 - [Git workflow](../resources/git-workflow.md)
+- [Cool Shit in Rails](../resources/cool-shit-in-rails.md)
