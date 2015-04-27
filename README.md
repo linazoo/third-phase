@@ -29,7 +29,7 @@
 
 ## Weekly Cadence
 
-- Yoga: Thursday (mandatory in Week 1, optional in Weeks 2 & 3)
+- Yoga: Wednesday (mandatory in Week 1, optional in Weeks 2 & 3)
 
 ## Daily Cadence
 
