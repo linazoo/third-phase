@@ -8,10 +8,10 @@
 ### Schedule
 
 AM:  
-- Rails Q & A
 - Cores
 
 PM:
+- Rails Q & A
 - Cores
 
 ### Challenges
