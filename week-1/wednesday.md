@@ -6,7 +6,7 @@
 
 AM:
 - Railsy Talks
-- DBC Overflow
+- **Client Projects**
 
 PM:
 
@@ -18,7 +18,7 @@ Continue.
 
 ##### Core Challenge
 
-- [DBC Overflow](../../../../overflow-challenge) as a [Group Project](../resources/group_project_process.md)
+- [Client Project](../../../../client-project-challenge) as a [Group Project](../resources/group_project_process.md)
 
 This project must be created **with TDD** and use the **[group
 project process](../resources/group_project_process.md)** 
