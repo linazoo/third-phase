@@ -2,14 +2,9 @@
 
 ### Schedule
 
-AM:
 - Railsy Talks
-- Challenge: [Git With It](../../../../git-with-it-challenge)
-
-PM:
 - **Lecture: Intro to Integration Testing**
-- Challenge: [Rocket, Paper-plane, Scissors Rails with Rspec
-Challenge](../../../../rocket-paperplane-scissors-challenge) 
+- Challenge: [Rocket, Paper-plane, Scissors Rails with Rspec Challenge](../../../../rocket-paperplane-scissors-challenge) 
 
 ##### After Hours
 
