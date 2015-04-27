@@ -4,7 +4,8 @@
 
 - Railsy Talks
 - **Lecture: Intro to Integration Testing**
-- Challenge: [Rocket, Paper-plane, Scissors Rails with Rspec Challenge](../../../../rocket-paperplane-scissors-challenge) 
+- Challenge: [Rocket, Paper-plane, Scissors Rails with Rspec Challenge](../../../../rocket-paperplane-scissors-challenge)
+- EE
 
 ##### After Hours
 
