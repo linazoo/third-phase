@@ -13,4 +13,4 @@ PM:
 
 ##### Core Challenges
 
-With your group, continue your DBC Overflow project.
+With your group, continue your client project.
