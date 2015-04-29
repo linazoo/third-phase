@@ -28,3 +28,17 @@ Today, you will:
     - [5 Tips for a Better Commit Message](http://robots.thoughtbot.com/5-useful-tips-for-a-better-commit-message)
     - [Git Commit Message Suggestions](http://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html)
 - Read [Sandi Metz' Rules For Developers](http://robots.thoughtbot.com/sandi-metz-rules-for-developers).
+
+### Resources
+
+- Code Coverage
+  - [simplecov](https://github.com/colszowka/simplecov)
+  - [Coveralls](https://coveralls.io/)
+- Continuous Integration (CI) services
+  - [TravisCI](https://travis-ci.org)
+  - [CircleCI](https://circleci.com)
+  - [Codeship](https://codeship.com/)
+- Code Style Guides
+  - [Ruby Community Guide](https://github.com/bbatsov/ruby-style-guide)
+  - [AirBnB Ruby Guide](https://github.com/airbnb/ruby)
+  - [AirBnB JavaScript Guide](https://github.com/airbnb/javascript)
