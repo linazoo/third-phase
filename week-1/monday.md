@@ -7,33 +7,22 @@
 
 ### Schedule
 
-AM:  
-- Cores
-
-PM:
-- Rails Q & A
-- Cores
-
-### Challenges
-
-##### Core Challenges
-
-With your pair, complete the following challenges.
-
-- [Sinatra to Rails](../../../../sinatra-to-rails-pick-1-of-3-challenge)
+- Challenge: [Sinatra to Rails](../../../../sinatra-to-rails-pick-1-of-3-challenge)
 
   Be sure to use this: [Cool Shit in Rails](../resources/cool-shit-in-rails.md)
+  
+- Lecture: Rails Q & A
 
-##### After Hours
+### After Hours
 
 - [Rails microchallenges](../microchallenges/rails-microchallenges.md)
 
-##### After Hours (refreshers)
+##### Refreshers
 
 - [RSpec Intro](../../../../phase-3-rspec-intro-challenge)
 - Watch [Intro to TDD](https://talks.devbootcamp.com/rspec-intro)
 
-### Additional Resources
+### Resources
 
 - [Rails Guides](http://guides.rubyonrails.org/) will be invaluable to you throughout Phase 3.
   - [Controllers](http://guides.rubyonrails.org/action_controller_overview.html)
