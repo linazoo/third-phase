@@ -9,7 +9,7 @@
 - **Lecture: Lifecycle of a Project**
 - Group Project
 
-### Group Project
+### Client Project
 
 - [Client Project](../../../../client-project-challenge)
 
