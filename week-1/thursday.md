@@ -5,6 +5,8 @@
 - Railsy Talks
 - [Client Project](../../../../client-project-challenge)
 
+### Client Project
+
 Today you will:
 - continue working on your user stories,
 - continue testing,
