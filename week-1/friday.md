@@ -6,6 +6,8 @@
 - [Client Project](../../../../client-project-challenge)
 - Project Demos and Retros
 
+### Client Project
+
 Today, you will:
 - continue working on your client features in the morning,
 - spend some time finalizing your project (styling, refactoring, adding documentation, etc.)
