@@ -1,22 +1,18 @@
 # Week 1: Thursday
 
-### Lecture
+### Schedule
 
-AM:
 - Railsy Talks
+- [Client Project](../../../../client-project-challenge)
 
-PM:
-- Group Project: Good Times :+1:
+Today you will:
+- continue working on your user stories,
+- continue testing,
+- in the afternoon, meet with your client and demo the project so far. You will then collect their feedback and adjust your user story priorities based on that feedback.
 
 ![rarity holding it down](http://mlpforums.com/uploads/post_images/img-2784165-4-img_2712325_1_mlfw2933_1329602553300.gif)
 
-### Challenges
-
-##### Core Challenges
-
-With your group, continue your client project.
-
-#### Resources
+### Resources
 
 - [Protecting API Keys in Opensource
   projects](https://github.com/devbootcamp/reference/wiki/Open-Source-Secrets)
