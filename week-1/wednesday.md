@@ -4,26 +4,18 @@
 
 ### Schedule
 
-AM:
+- Yoga
 - Railsy Talks
-- **Client Projects**
+- **Lecture: Lifecycle of a Project**
+- Group Project
 
-PM:
+### Group Project
 
-Continue.
+- [Client Project](../../../../client-project-challenge)
 
-![continue forever](http://i.imgur.com/lSjkmNj.gif)
+You should follow this [Group Project process](../resources/group_project_process.md) to get practice with the standard development team workflow.
 
-### Challenges
-
-##### Core Challenge
-
-- [Client Project](../../../../client-project-challenge) as a [Group Project](../resources/group_project_process.md)
-
-This project must be created **with TDD** and use the **[group
-project process](../resources/group_project_process.md)** 
-
-##### After Hours
+### After Hours
 
 - Read up on good commit messages
     - [5 Tips for a Better Commit Message](http://robots.thoughtbot.com/5-useful-tips-for-a-better-commit-message)
