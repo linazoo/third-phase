@@ -15,6 +15,13 @@
 
 You should follow this [Group Project process](../resources/group_project_process.md) to get practice with the standard development team workflow.
 
+Today, you will:
+- meet with your client to get your project's requirements,
+- determine your team's working process,
+- write out and plan your user stories,
+- set up your CI tools, code coverage and deployment environment, and
+- begin working on your features.
+
 ### After Hours
 
 - Read up on good commit messages
