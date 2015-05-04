@@ -1,4 +1,4 @@
-# Week 1: Weekend
+# W1 Weekend: Thoughtful & Curious Exploration
 
 - Choose a Gemsy Talk Topic (using a Gem within a Rails app) and
 prepare your lightning talk
