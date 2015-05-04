@@ -1,4 +1,4 @@
-# Week 1: Friday
+# W1 Friday: Client Projects
 
 ### Schedule
 
