@@ -1,4 +1,4 @@
-# Week 1: Wednesday
+# W1 Wednesday - Client Projects
 
 [Group assignments](../../../wiki/groups)
 
