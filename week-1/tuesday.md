@@ -1,10 +1,10 @@
-# Week 1: Tuesday
+# W1 Tuesday - Integration Testing with Rails
 
 ### Schedule
 
 - Railsy Talks
 - **Lecture: Intro to Integration Testing**
-- Challenge: [Rocket, Paper-plane, Scissors Rails with Rspec Challenge](../../../../rocket-paperplane-scissors-challenge)
+- Challenge: [Rocket, Paper-plane, Scissors Rails with RSpec Challenge](../../../../rocket-paperplane-scissors-challenge)
 - EE
 
 ### After Hours
