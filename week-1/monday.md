@@ -1,4 +1,4 @@
-# W1 Monday - Rails
+# W1 Monday: Rails
 
 ### Prep
 
