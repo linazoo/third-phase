@@ -1,4 +1,4 @@
-# P3W2 Monday - JS Frameworks and Client-side Development
+# P3W2 Monday - JS Frameworks
 
 ### Schedule
 
