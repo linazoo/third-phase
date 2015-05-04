@@ -1,4 +1,4 @@
-# W1 Tuesday - Integration Testing with Rails
+# W1 Tuesday: Integration Testing with Rails
 
 ### Schedule
 
