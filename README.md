@@ -23,6 +23,7 @@
     <td><a href="week-2/monday.md">Monday</td>
     <td><a href="week-2/tuesday.md">Tuesday</td>
     <td><a href="week-2/wednesday.md">Wednesday</td>
+    <td><a href="week-2/thursday.md">Thursday</td>
   </tr>
 </table>
 
