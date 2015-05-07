@@ -35,7 +35,7 @@ Today, you will:
   - [simplecov](https://github.com/colszowka/simplecov)
   - [Coveralls](https://coveralls.io/)
 - Continuous Integration (CI) services
-  - [TravisCI](https://travis-ci.org)
+  - [TravisCI](https://travis-ci.org) and Nate's [guide to Travis](../resources/travis.md)
   - [CircleCI](https://circleci.com)
   - [Codeship](https://codeship.com/)
 - Code Style Guides
