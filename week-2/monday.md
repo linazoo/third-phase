@@ -6,7 +6,13 @@
 - Lecture: JS Frameworks and Client-side MVC
 - Challenge: [Li'l Twitter](../../../../lil-twitter-challenge)
 
-  **Don't worry about testing your JS with Jasmine.** We'll revisit Jasmine in a lecture tomorrow. Focus on writing the best client-side MVC code you can.
+  **Don't worry about testing your JS with Jasmine.** You'll get to that tonight. Focus on writing the best client-side MVC code you can.
+
+### Prep for Tomorrow
+
+- Read this [Jasmine intro](../../resources/jasmine.md) to get familiar with JavaScript testing.
+- Write and run a test for a part of the code you wrote today.
+- [Jasmine documentation](http://jasmine.github.io)
 
 ### Resources
 
