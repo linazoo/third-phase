@@ -1,13 +1,13 @@
 # Group Project Process
 
 ## Git Workflow
-Follow the **[Git workflow](./git-workflow.md)** (read it!), including:
-	* **Every** pull request must be reviewed by someone who did not write the code
-	* Code reviewer *reads* the code and comments on it to ensure it makes
-sense and follows the procedures outlined in this document
-	* Code Reviewer merges the Pull Request
-	* Commits that include views **must include screenshot(s)**
-	* Your project must have a [README](./git-workflow.md#readme) and a
+Follow the **[Git workflow](./git-workflow.md)** (read it!), including:  
+
+* **Every** pull request must be reviewed by someone who did not write the code
+* Code reviewer *reads* the code and comments on it to ensure it makes sense and follows the procedures outlined in this document
+* Code Reviewer merges the Pull Request
+* Commits that include views **must include screenshot(s)**
+* Your project must have a [README](./git-workflow.md#readme) and a
 [CONTRIBUTING](git-workflow.md#contributingmd) file
 
 ## Project Management
