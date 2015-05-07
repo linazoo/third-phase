@@ -1,6 +1,6 @@
 # W2 Thursday: Final Projects
 
-- [![Welcome to the Grind](https://img.youtube.com/vi/hbkZrOU1Zag/hqdefault.jpg)](https://www.youtube.com/watch?v=hbkZrOU1Zag)
+[Welcome to the Grind](https://www.youtube.com/watch?v=hbkZrOU1Zag)
 
 ### Final Projects
 
