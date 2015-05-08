@@ -10,8 +10,8 @@
 - Challenge: [Sinatra to Rails](../../../../sinatra-to-rails-pick-1-of-3-challenge)
 
   Be sure to use this: [Cool Shit in Rails](../resources/cool-shit-in-rails.md)
-  
-- Lecture: Rails Q & A
+
+- Breakout: Rails Q & A
 
 ### After Hours
 

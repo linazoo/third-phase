@@ -4,48 +4,30 @@
 
 #### Monday
 
-- **Rails Intro:**
+- **Rails Q&A:**
 
-  Description.  [Example video](http://talks.devbootcamp.com/rails-intro).
+  Q & A breakout on pieces of Rails.
 
 #### Tuesday
 
-- **RSpec Intro:**
-
-  RSpec basics.  Unit testing.  Stubbing and mocking.
-
-- **RSpec - Rails:**
+- **Integration Testing with Rails:**
 
   Integration and controller tests.  [Example video](http://talks.devbootcamp.com/integration-and-isolation-1)
 
 #### Wednesday
 
-- **Agile Methodology:**
+- **Lifecycle of a Project**
 
-  Description.  [Notes](./agile-notes.md).
-
-#### Thursday
-
-- **Travis-CI and Coveralls:**
-
-  Description.  [Example video](http://talks.devbootcamp.com/continuous-integration-and-coverage). [Travis example](https://travis-ci.org/ryanbriones/dbc-continuous-dragonflies/).  [Coveralls example](https://coveralls.io/r/ryanbriones/dbc-continuous-dragonflies).
+  Common tools used in Rails deployments. Generally covers CI (Travis), code coverage (simplecov / Coveralls), Heroku addons, and APM tools (New Relic).
 
 ## Week 2
 
 #### Monday
 
-- **Web Performance:**
+- **Client-side MVC and Backbone.js**
 
-  Description.  [Notes](../resources/web_performance_notes.md).
-
-#### Tuesday
-
-- **Jasmine:**
-
-  Description.
+  Concepts of client-side MVC JavaScript, and specifically how they relate to Backbone. Preparation lecture for Lil' Twitter.
 
 #### Wednesday
 
-- **iOS Development Intro:**
-
-  Description.
+- **Web Performance:**
