@@ -18,3 +18,4 @@ Project pitches will occur first thing.  After pitches, you'll all vote on proje
 - [Git Workflow](../resources/git-workflow.md)
 - [Travis: Continuous Integration for Fun and Profit](../resources/travis.md)
 - [Final Project Timeline](../resources/final-projects.md)
+- [Protecting Secret Tokens in Open Source Software](https://github.com/Devbootcamp/reference/wiki/Open-Source-Secrets)
