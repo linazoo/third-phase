@@ -14,5 +14,4 @@ Today you will:
 
 ### Resources
 
-- [Protecting API Keys in Opensource
-  projects](https://github.com/devbootcamp/reference/wiki/Open-Source-Secrets)
+- [Protecting Secret Tokens in Open Source Software](https://github.com/devbootcamp/reference/wiki/Open-Source-Secrets)
