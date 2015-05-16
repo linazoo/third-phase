@@ -4,10 +4,13 @@ behavior-drill-grocery-list-challenge
 behavior-drill-post-it-board-v1-challenge
 behavior-drill-post-it-board-v2-challenge
 build-a-thick-client-on-rails-challenge
-git-with-it
+client-project-challenge
+emails-backbone-example
+git-with-it-challenge
 intro-to-rails-challenge
+jasmine-mvc-challenge
 karmaville-challenge
-lil-twitter-challenge
+lil-twitter-challenge,chicago
 miniQuery-challenge
 overflow-challenge
 pairing-is-caring-challenge
@@ -19,7 +22,6 @@ rocket-paperplane-scissors-challenge
 rspec-drill-bank-account-challenge
 rspec-drill-simple-todo-challenge
 rspec-drill-test-a-cookie-challenge
-sf-rspec-rails-challenge
 sinatra-to-rails-pick-1-of-3-challenge
 tdd-telephone-challenge
 todomvc-rails-challenge

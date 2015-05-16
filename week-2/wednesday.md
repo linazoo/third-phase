@@ -1,4 +1,4 @@
-# Week 2: Wednesday
+# W2 Wednesday: Web Performance and Clean Code
 
 ### Lecture
 
@@ -7,11 +7,5 @@
 ### Core Challenges
 - [Karmaville](../../../../karmaville-challenge)
 
-##### Final Projects
-
-- Project pitches will occur after lunch.  After pitches, you'll all vote on project preferences.  Your instructors will assign each of you to a final project group, trying to make everyone as happy as possible.
-
-### Resources
-
-- [Final Project Timeline](../resources/final-projects.md)
-- [Welcome to the Grind](https://www.youtube.com/watch?v=hbkZrOU1Zag)
+### Other Challenges
+- [Refactor This!](https://github.com/chi-rock-doves-2015/refactor-this-challenge)

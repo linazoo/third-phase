@@ -1,40 +1,28 @@
-# Week 1: Monday
+# W1 Monday: Rails
 
 ### Prep
 
 - Read the [section in the Overview on Rails](../resources/intro-to-p3.md#on-rails).
 - Choose [Railsy Talk Topic](../resources/railsy_talk_topics.md)
-- Prepare questions on Rails
 
-### Lecture
+### Schedule
 
-AM:
-- Rails Q & A
+- Challenge: [Sinatra to Rails](../../../../sinatra-to-rails-pick-1-of-3-challenge)
 
-### Challenges
+  Be sure to use this: [Cool Shit in Rails](../resources/cool-shit-in-rails.md)
 
-**Note: You are NOT allowed to use Rails generators this week**
+- Breakout: Rails Q & A
 
-##### Core Challenges
+### After Hours
 
-With your pair, complete the following challenges.
+- [Rails microchallenges](../microchallenges/rails-microchallenges.md)
 
-- [Sinatra to Rails](../../../../sinatra-to-rails-pick-1-of-3-challenge)
+##### Refreshers
 
-  Be sure to cover ...
-  - Routing: named routes, url helpers
-  - CRUD using `form_for`
-  - `link_to` with `:method => :delete`
-  - Strong Parameters
+- [RSpec Intro](../../../../phase-3-rspec-intro-challenge)
+- Watch [Intro to TDD](https://talks.devbootcamp.com/rspec-intro)
 
-##### After Hours
-
-- *Prep for Tomorrow*: [RSpec Intro](../../../../phase-3-rspec-intro-challenge)
-- _Prepare at least 5 questions *each* on Rails & Rspec_
-- *Stretch*: [Rails microchallenges](../microchallenges/rails-microchallenges.md)
-
-
-### Additional Resources
+### Resources
 
 - [Rails Guides](http://guides.rubyonrails.org/) will be invaluable to you throughout Phase 3.
   - [Controllers](http://guides.rubyonrails.org/action_controller_overview.html)
@@ -44,3 +32,4 @@ With your pair, complete the following challenges.
   - [Strong Parameters](http://edgeguides.rubyonrails.org/action_controller_overview.html#strong-parameters)
 - [Rails cheatsheet](http://courseware.codeschool.com/rails_for_zombies_2_cheatsheets.pdf)
 - [Git workflow](../resources/git-workflow.md)
+- [Cool Shit in Rails](../resources/cool-shit-in-rails.md)

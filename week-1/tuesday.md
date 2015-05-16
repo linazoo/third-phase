@@ -1,25 +1,16 @@
-# Week 1: Tuesday
+# W1 Tuesday: Integration Testing with Rails
 
-### Lectures
+### Schedule
 
-AM:
-- RSpec - Integration Testing & Mocks and Stubs
-
-PM:
 - Railsy Talks
+- Lecture: Intro to Integration Testing
+- Challenge: [Rocket, Paper-plane, Scissors](../../../../rocket-paperplane-scissors-challenge)
+- EE
 
-### Challenges
+### After Hours
 
-##### Core Challenges
+- **Required** Finish [Rocket, Paper-plane, Scissors](../../../../rocket-paperplane-scissors-challenge) including Release 3 (integration testing)
+- Finish [Rails microchallenges](../microchallenges/rails-microchallenges.md)
 
-With your pair, complete the following challenges.
-
-AM:
-- [Rocket, Paper-plane, Scissors Rails with Rspec
-Challenge](../../../../rocket-paperplane-scissors-challenge)
-- [Rails with RSpec](../../../..//rails-with-rspec-challenge)
-
-##### After Hours
-
-- *Stretch*: [Rails microchallenges](../microchallenges/rails-microchallenges.md)
-
+- Read about [how to create user stories](http://techportal.inviqa.com/2011/07/19/how-to-create-user-stories/)
+- Read the [Group Project Process](../resources/group_project_process.md)

@@ -1,14 +1,19 @@
-# Week 1: Friday
+# W1 Friday: Client Projects
 
-### Lecture
+### Schedule
 
-AM:
-- Railsy Talks
-- JS Testing with Jasmine
+- Checkins & Feedback
+- [Client Project](../../../../client-project-challenge)
+- Project Demos and Retros
 
-### Challenges
+### Client Project
 
-##### Core Challenges
+Today, you will:
+- continue working on your client features in the morning,
+- spend some time finalizing your project (styling, refactoring, adding documentation, etc.)
+- demo your project to your cohort, and
+- have a retrospective with your cohort about your client projects.
 
-With your group, continue your DBC Overflow project.
+### Resources
 
+- [Agile Retrospectives: Why do them?](https://medium.com/@benlinders/agile-retrospectives-why-do-them-2f9ba6a7ae32)

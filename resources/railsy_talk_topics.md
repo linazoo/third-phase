@@ -1,5 +1,5 @@
 # DO NOT MODIFY THIS FILE
-Choose your topic on the [wiki](../../../wiki/Railsy-Topics)
+Choose your topic on the [wiki](../../../wiki/Railsy-Talks)
 
 ## Railsy Talk Topics
 

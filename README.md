@@ -23,15 +23,16 @@
     <td><a href="week-2/monday.md">Monday</td>
     <td><a href="week-2/tuesday.md">Tuesday</td>
     <td><a href="week-2/wednesday.md">Wednesday</td>
+    <td><a href="week-2/thursday.md">Thursday</td>
   </tr>
 </table>
 
 
 ## Weekly Cadence
 
-- Yoga: Thursday (mandatory in Week 1, optional in Weeks 2 & 3)
+- Yoga: Wednesday (mandatory in Weeks 1 & 2, optional in Week 3)
 
 ## Daily Cadence
 
 - Standup every morning of projects immediately following 8am standup
-- Meditation every afternoon at 4.45pm
+- Standup every afternoon of projects at 4.45pm

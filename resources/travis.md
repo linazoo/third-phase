@@ -1,4 +1,5 @@
 # Continuous Integration for Fun and Profit
+#### by Nate Delage
 
 ### Continu-what?
 
@@ -29,7 +30,7 @@ Yes you can. Travis-CI is an automated, hosted build _service_ that we'll be usi
 __Requirements__
 
 - a public repository
-- .travis.yml file (build configuration)
+- `.travis.yml` file (build configuration)
 - tests (duh)
 
 __Changes to Your Repo__
@@ -52,7 +53,8 @@ __Steps on Github__
 
 Now go back to Travis-CI and within a few moments you should see your tests running. Going forward, your entire test suite will run each time you push a new commit or feature branch up to Github.
 
-#### Sample .travis.yml file for a RoR project:
+### Sample .travis.yml file for a Rails project:
+
 ```yml
 language: ruby
 rvm:

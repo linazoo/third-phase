@@ -1,11 +1,12 @@
-# Week 2: Tuesday
+# W2 Tuesday: JS Testing
 
-### Lecture
+### Schedule
 
-AM: Jasmine
-
-PM: Gemsy Talks
-
-### Challenges
-
+- Gemsy Talks
 - [Jasmine MVC](../../../../jasmine-mvc-challenge)
+- Continue with [Li'l Twitter](../../../../lil-twitter-challenge)
+
+### Resources
+
+- [Jasmine intro](../../resources/jasmine.md)
+- [Jasmine documentation](http://jasmine.github.io)

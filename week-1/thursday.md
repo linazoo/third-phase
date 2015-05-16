@@ -1,29 +1,17 @@
-# Week 1: Thursday
+# W1 Thursday: Client Projects
 
-### Lecture
+### Schedule
 
-AM:
-- The Lifecycle of a Project
-
-PM:
 - Railsy Talks
+- [Client Project](../../../../client-project-challenge)
 
-### Challenges
+### Client Project
 
-##### Core Challenges
+Today you will:
+- continue working on your user stories,
+- continue testing,
+- in the afternoon, meet with your client and demo the project so far. You will then collect their feedback and adjust your user story priorities based on that feedback.
 
-- [DBC Overflow](../../../../overflow-challenge)
-- [Protecting API Keys in Opensource
-  projects](https://github.com/devbootcamp/reference/wiki/Open-Source-Secrets)
+### Resources
 
-You must follow the **[group project process](../resources/group_project_process.md)** while developing your Stack Overflow clone.
-
-### Additional Resources
-
-- [Jasmine Homepage](http://jasmine.github.io/)
-- [Try Jasmine](http://tryjasmine.com/)
-- [Jasmine Spy Cheatsheet](http://tobyho.com/2011/12/15/jasmine-spy-cheatsheet/)
-- [Jasmine Gem](https://github.com/pivotal/jasmine-gem)
-- [Jasmine Fixture](https://github.com/searls/jasmine-fixture)
-- [Jasmine jQuery](https://github.com/velesin/jasmine-jquery)
-- [Jasmine ajax](https://github.com/pivotal/jasmine-ajax)
+- [Protecting Secret Tokens in Open Source Software](https://github.com/devbootcamp/reference/wiki/Open-Source-Secrets)
