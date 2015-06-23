@@ -2,7 +2,7 @@
 
 <table>
   <tr>
-  <th colspan="6">Quick Reference</th>
+  <th colspan="7">Quick Reference</th>
   </tr>
 
   <tr>
