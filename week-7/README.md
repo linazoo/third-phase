@@ -1,4 +1,4 @@
-# Week 7 - Rails, Testing and Application Management
+# Week 7
 
 <table>
   <tr>
@@ -37,7 +37,8 @@
 * Deploy your Rails app to Heroku **from your personal laptop**
 
 ### Additional Resources
-[Rails Resources](../resources/rails-resources.md)
+
+- [Rails Resources](../resources/rails-resources.md)
 
 ---
 
@@ -45,6 +46,10 @@
 ### Rails
 
 ### Core
+
+**Talks**
+
+Railsy Talks
 
 **Lecture**
 
@@ -56,6 +61,7 @@ Rails Q & A
 
 **Prep for Tomorrow**
 
+- Watch [Testing Web Apps with RSpec and Capybara](https://talks.devbootcamp.com/2014-salamanders-aeu-testing-web-apps-with-rspec-and-capybara)
 - [Rails microchallenges](../microchallenges/rails-microchallenges.md)
 
 Refresh on these topics:
@@ -88,113 +94,96 @@ Railsy Talks
 
 **Lecture**
 
-Intro to Integration and Controller Testing
+[Testing Web Apps with RSpec and Capybara](https://talks.devbootcamp.com/2014-salamanders-aeu-testing-web-apps-with-rspec-and-capybara)
 
 **Challenges**
 
 - [Rocket, Paper-plane, Scissors](../../../../rocket-paperplane-scissors-challenge)
 
 **Prep for Tomorrow**
+
 - Finish [Rails microchallenges](../microchallenges/rails-microchallenges.md)
-- Read about [how to create user stories](http://techportal.inviqa.com/2011/07/19/how-to-create-user-stories/)
-- Read the [Group Project Process](../resources/group_project_process.md)
+- Read this [Jasmine intro](../../resources/jasmine.md) to get familiar with JavaScript testing.
+- [Jasmine documentation](http://jasmine.github.io)
 
 ---
 
 ## Wednesday
-### Client Project - Day 1/3
+### Advanced JavaScript
 
 ### Core
 
 **Talks**
 
-Railsy Talks
+Gemsy Talks
 
 **Lecture**
 
-Lifecycle of a Project
+Advanced JavaScript
 
-**Group Project**
+**Challenges**
 
-[Client Project](../../../../client-project-challenge)
+- [Markdown Widget Challenge](../../../../markdown-widget-challenge)
+- [Jasmine MVC](../../../../jasmine-mvc-challenge)
 
-You should follow this [Group Project process](../resources/group_project_process.md) to get practice with the standard development team workflow.
+## Additional Resources
 
-Today, you will:
+- [Jasmine intro](../../resources/jasmine.md)
+- [Jasmine documentation](http://jasmine.github.io)
 
-- meet with your client to get your project's requirements,
-- determine your team's working process,
-- write out and plan your user stories,
-- set up your CI tools, code coverage and deployment environment, and
-- begin working on your features.
-
-**Prep for Tomorrow**
-
-- Read up on good commit messages
-    - [5 Tips for a Better Commit Message](http://robots.thoughtbot.com/5-useful-tips-for-a-better-commit-message)
-    - [Git Commit Message Suggestions](http://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html)
-- Read [Sandi Metz' Rules For Developers](http://robots.thoughtbot.com/sandi-metz-rules-for-developers).
-
-### Additional Resources
-
-- Code Coverage
-  - [simplecov](https://github.com/colszowka/simplecov)
-  - [Coveralls](https://coveralls.io/)
-- Continuous Integration (CI) services
-  - [TravisCI](https://travis-ci.org) and Nate's [guide to Travis](../resources/travis.md)
-  - [CircleCI](https://circleci.com)
-  - [Codeship](https://codeship.com/)
-- Code Style Guides
-  - [Ruby Community Guide](https://github.com/bbatsov/ruby-style-guide)
-  - [AirBnB Ruby Guide](https://github.com/airbnb/ruby)
-  - [AirBnB JavaScript Guide](https://github.com/airbnb/javascript)
-
-----
+---
 
 ## Thursday
-### Client Project - Day 2/3
+### Advanced JavaScript
 
 ### Core
 
 **Talks**
 
-Railsy Talks
+JavaScripty Talks
 
-**Group Project**
+**Lecture**
 
-- [Client Project](../../../../client-project-challenge)
+No lecture.
 
-Today you will:
+**Challenges**
 
-- continue working on your user stories,
-- continue testing,
-- in the afternoon, meet with your client and demo the project so far. You will then collect their feedback and adjust your user story priorities based on that feedback.
+- [Behavior Drill: Grocery List](../../../../behavior-drill-grocery-list-challenge)
+- [OOJS Etsy Challenge](../../../../oo-js-etsy-challenge)
 
-### Additional Resources
+**Prep for Tomorrow**
 
-- [Protecting Secret Tokens in Open Source Software](https://github.com/devbootcamp/reference/wiki/Open-Source-Secrets)
+- Watch Nate's [intro lecture](https://talks.devbootcamp.com/backbone-intro)
+- [Emails example application](../../../../emails-backbone-example) from the lecture
 
 ---
 
 ## Friday
-### Client Project - Day 3/3
+### JavaScript Project
 
-### Core
+**Talks**
 
-**Group Project**
+JavaScripty Talks
 
-[Client Project](../../../../client-project-challenge)
+**Lecture**
 
-Today, you will:
+JavaScript Frameworks and Client-side MVC
 
-- continue working on your client features in the morning,
-- spend some time finalizing your project (styling, refactoring, adding documentation, etc.)
-- demo your project to your cohort, and
-- have a retrospective with your cohort about your client projects.
+**Challenges**
+
+- [Li'l Twitter](../../../../lil-twitter-challenge)
 
 ### Additional Resources
 
-- [Agile Retrospectives: Why do them?](https://medium.com/@benlinders/agile-retrospectives-why-do-them-2f9ba6a7ae32)
+- [Backbone.js](http://backbonejs.org/)
+- [Emails example application](../../../../emails-backbone-example) from the lecture
+- Nate's [intro lecture](https://talks.devbootcamp.com/backbone-intro)
+- [Backbone Tutorials](http://backbonetutorials.com/)
+  - [What is a model?](http://backbonetutorials.com/what-is-a-model/)
+  - [What is a view?](http://backbonetutorials.com/what-is-a-view/)
+  - [What is a router?](http://backbonetutorials.com/what-is-a-router/)
+  - [What is a collection?](http://backbonetutorials.com/what-is-a-collection/)
+- [TodoMVC in Backbone](http://todomvc.com/examples/backbone/) ([source](https://github.com/tastejs/todomvc/tree/gh-pages/examples/backbone))
 
 ---
 
@@ -213,3 +202,8 @@ I want you to take this opportunity before final projects begin to build somethi
 Satisfy that curious person that made you sign up to DBC in the first place who's been watching the last 7 weeks go by, picking up knowledge and power and wondering how to use it.
 
 Build something, and then show us on Monday morning. Make yourself proud.
+
+**Prep for Monday**
+
+- Read about [how to create user stories](http://techportal.inviqa.com/2011/07/19/how-to-create-user-stories/)
+- Read the [Group Project Process](../resources/group_project_process.md)

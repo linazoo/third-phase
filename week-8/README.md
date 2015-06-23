@@ -16,79 +16,106 @@
 ---
 
 ## Monday
-### JavaScript Frameworks
+### Client Project - Day 1/3
 
 ### Core
 
 **Lecture**
 
-JS Frameworks and Client-side MVC
+Lifecycle of a Project
 
-**Challenges**
+**Group Project**
 
-- [Li'l Twitter](../../../../lil-twitter-challenge)
+[Client Project](../../../../client-project-challenge)
+
+You should follow this [Group Project process](../resources/group_project_process.md) to get practice with the standard development team workflow.
+
+Today, you will:
+
+- meet with your client to get your project's requirements,
+- determine your team's working process,
+- write out and plan your user stories,
+- set up your CI tools, code coverage and deployment environment, and
+- begin working on your features.
 
 **Prep for Tomorrow**
 
-- Read this [Jasmine intro](../../resources/jasmine.md) to get familiar with JavaScript testing.
-- Write and run a test for a part of the code you wrote today.
-- [Jasmine documentation](http://jasmine.github.io)
+- Read up on good commit messages
+    - [5 Tips for a Better Commit Message](http://robots.thoughtbot.com/5-useful-tips-for-a-better-commit-message)
+    - [Git Commit Message Suggestions](http://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html)
+- Read [Sandi Metz' Rules For Developers](http://robots.thoughtbot.com/sandi-metz-rules-for-developers).
 
 ### Additional Resources
 
-- [Backbone.js](http://backbonejs.org/)
-- [Emails example application](../../../../emails-backbone-example) from the lecture
-- Nate's [intro lecture](https://talks.devbootcamp.com/backbone-intro)
-- [Backbone Tutorials](http://backbonetutorials.com/)
-  - [What is a model?](http://backbonetutorials.com/what-is-a-model/)
-  - [What is a view?](http://backbonetutorials.com/what-is-a-view/)
-  - [What is a router?](http://backbonetutorials.com/what-is-a-router/)
-  - [What is a collection?](http://backbonetutorials.com/what-is-a-collection/)
-- [TodoMVC in Backbone](http://todomvc.com/examples/backbone/) ([source](https://github.com/tastejs/todomvc/tree/gh-pages/examples/backbone))
+- Code Coverage
+  - [simplecov](https://github.com/colszowka/simplecov)
+  - [Coveralls](https://coveralls.io/)
+- Continuous Integration (CI) services
+  - [TravisCI](https://travis-ci.org) and Nate's [guide to Travis](../resources/travis.md)
+  - [CircleCI](https://circleci.com)
+  - [Codeship](https://codeship.com/)
+- Code Style Guides
+  - [Ruby Community Guide](https://github.com/bbatsov/ruby-style-guide)
+  - [AirBnB Ruby Guide](https://github.com/airbnb/ruby)
+  - [AirBnB JavaScript Guide](https://github.com/airbnb/javascript)
 
----
+----
 
 ## Tuesday
-### JavaScript Framework Testing
+### Client Project - Day 2/3
 
 ### Core
 
-**Talks**
+**Group Project**
 
-Gemsy Talks
+- [Client Project](../../../../client-project-challenge)
 
-**Challenges**
+Today you will:
 
-- [Jasmine MVC](../../../../jasmine-mvc-challenge)
+- continue working on your user stories,
+- continue testing,
+- in the afternoon, meet with your client and demo the project so far. You will then collect their feedback and adjust your user story priorities based on that feedback.
 
-## Additional Resources
+**Prep for Tomorrow**
 
-- [Jasmine intro](../../resources/jasmine.md)
-- [Jasmine documentation](http://jasmine.github.io)
+- Watch [Web Performance](https://talks.devbootcamp.com/web-performance-3)
+
+### Additional Resources
+
+- [Protecting Secret Tokens in Open Source Software](https://github.com/devbootcamp/reference/wiki/Open-Source-Secrets)
 
 ---
 
 ## Wednesday
-### Web Performance
+### Client Project - Day 3/3
 
 ### Core
 
-**Lecture**
+**Group Project**
 
-Web Performance
+[Client Project](../../../../client-project-challenge)
 
-**Challenges**
+Today, you will:
 
-- [Karmaville](../../../../karmaville-challenge)
+- continue working on your client features in the morning,
+- spend some time finalizing your project (styling, refactoring, adding documentation, etc.), and
+- demo your project to your cohort
 
-### Stretch
+**Prep for Tomorrow**
 
-**Challenges**
-
-- [Refactor This!](https://github.com/chi-rock-doves-2015/refactor-this-challenge)
+- Read [Agile Retrospectives: Why do them?](https://medium.com/@benlinders/agile-retrospectives-why-do-them-2f9ba6a7ae32)
 
 ---
 
-## Final Projects
+## Thursday
+### Final Projects
+
+### Core
+
+**Group Project**
+
+Have a retrospective with your cohort about your client projects and give your teammates feedback about their contributions to your group project
+
+**Final Projects**
 
 [Final Projects](../final-projects/)
