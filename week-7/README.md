@@ -32,28 +32,32 @@
 
 - Read the [section in the Overview on Rails](../resources/intro-to-p3.md#on-rails).
 * Go through [Learning Rails](../phase-3-prep/learning-rails.md)
+* Watch a talk on rails (see below)
 * [Build a Rails Blog](../../../../rails-blog-challenge)
 * Choose a [Railsy talk topic](../resources/railsy-talk-topics.md)
 * Deploy your Rails app to Heroku **from your personal laptop**
 
+**Talks on Rails (watch one)**
+- [Intro to Rails with Lucas - part 1 (45 min)](https://talks.devbootcamp.com/intro-to-rails-part-1)
+- [Intro to Rails with Lucas - part 2 (1h 15min)](https://talks.devbootcamp.com/intro-to-rails-part-2)
+- [Intro to Rails with Mike - (~2hr)](https://talks.devbootcamp.com/2014-coyotes-aeu-intro-to-rails)
+- [Intro to Rails with Nate Delage (~1hr)](https://talks.devbootcamp.com/rails-intro-1)
+
 ### Additional Resources
 
+- [Cool Shit in Rails](../resources/cool-shit-in-rails.md) (seriously read this)
 - [Rails Resources](../resources/rails-resources.md)
 
 ---
 
-## Monday
-### Rails
+## Monday - Rails!
 
 ### Core
 
 **Talks**
 
-Railsy Talks
+- Railsy Talks
 
-**Lecture**
-
-Rails Q & A
 
 **Challenges**
 
@@ -64,14 +68,14 @@ Rails Q & A
 - Watch [Testing Web Apps with RSpec and Capybara](https://talks.devbootcamp.com/2014-salamanders-aeu-testing-web-apps-with-rspec-and-capybara)
 - [Rails microchallenges](../microchallenges/rails-microchallenges.md)
 
-Refresh on these topics:
+**Refresh on these topics:**
 
 - [RSpec Intro](../../../../phase-3-rspec-intro-challenge)
 - Watch [Intro to TDD](https://talks.devbootcamp.com/rspec-intro)
 
 ### Additional Resources
 
-- [Cool Shit in Rails](../resources/cool-shit-in-rails.md)
+- [Cool Shit in Rails](../resources/cool-shit-in-rails.md) (seriously read this)
 - [Rails Guides](http://guides.rubyonrails.org/) will be invaluable to you throughout Phase 3.
   - [Controllers](http://guides.rubyonrails.org/action_controller_overview.html)
   - [Routes](http://guides.rubyonrails.org/routing.html)
@@ -83,18 +87,13 @@ Refresh on these topics:
 
 ---
 
-## Tuesday
-### Integration and Controller Testing
+## Tuesday - Integration and Controller Testing
 
 ### Core
 
 **Talks**
 
-Railsy Talks
-
-**Lecture**
-
-[Testing Web Apps with RSpec and Capybara](https://talks.devbootcamp.com/2014-salamanders-aeu-testing-web-apps-with-rspec-and-capybara)
+- Railsy Talks
 
 **Challenges**
 
@@ -103,53 +102,49 @@ Railsy Talks
 **Prep for Tomorrow**
 
 - Finish [Rails microchallenges](../microchallenges/rails-microchallenges.md)
+- Watch this [Advanced JavaScript Talk](#)
 - Read this [Jasmine intro](../resources/jasmine.md) to get familiar with JavaScript testing.
 - [Jasmine documentation](http://jasmine.github.io)
 
 ---
 
-## Wednesday
-### Advanced JavaScript
+## Wednesday - Advanced JavaScript
 
 ### Core
 
 **Talks**
 
-Gemsy Talks
-
-**Lecture**
-
-Advanced JavaScript
+- Gemsy Talks
 
 **Challenges**
 
 - [Markdown Widget Challenge](../../../../markdown-widget-challenge)
 - [Jasmine MVC](../../../../jasmine-mvc-challenge)
 
-## Additional Resources
+**Reading for tomorrow** 
+
+- [Javascript design patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book/)
+
+### Additional Resources
 
 - [Jasmine intro](../resources/jasmine.md)
 - [Jasmine documentation](http://jasmine.github.io)
 
 ---
 
-## Thursday
-### Advanced JavaScript
+## Thursday - Advanced JavaScript
 
 ### Core
 
 **Talks**
 
-JavaScripty Talks
+- JavaScripty Talks
 
-**Lecture**
-
-No lecture.
 
 **Challenges**
 
 - [Behavior Drill: Grocery List](../../../../behavior-drill-grocery-list-challenge)
-- [OOJS Etsy Challenge](../../../../oo-js-etsy-challenge)
+- [256 (a 2048 clone)](../../../../256-challenge)
 
 **Prep for Tomorrow**
 
@@ -158,16 +153,11 @@ No lecture.
 
 ---
 
-## Friday
-### JavaScript Project
+## Friday - JavaScript Project
 
 **Talks**
 
-JavaScripty Talks
-
-**Lecture**
-
-JavaScript Frameworks and Client-side MVC
+- JavaScripty Talks
 
 **Challenges**
 
