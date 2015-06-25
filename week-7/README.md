@@ -103,7 +103,7 @@ Railsy Talks
 **Prep for Tomorrow**
 
 - Finish [Rails microchallenges](../microchallenges/rails-microchallenges.md)
-- Read this [Jasmine intro](../../resources/jasmine.md) to get familiar with JavaScript testing.
+- Read this [Jasmine intro](../resources/jasmine.md) to get familiar with JavaScript testing.
 - [Jasmine documentation](http://jasmine.github.io)
 
 ---
@@ -128,7 +128,7 @@ Advanced JavaScript
 
 ## Additional Resources
 
-- [Jasmine intro](../../resources/jasmine.md)
+- [Jasmine intro](../resources/jasmine.md)
 - [Jasmine documentation](http://jasmine.github.io)
 
 ---
