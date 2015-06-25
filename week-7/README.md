@@ -50,7 +50,8 @@
 
 ---
 
-## Monday - Rails!
+## Monday
+### Rails
 
 ### Core
 
@@ -68,7 +69,7 @@
 - Watch [Testing Web Apps with RSpec and Capybara](https://talks.devbootcamp.com/2014-salamanders-aeu-testing-web-apps-with-rspec-and-capybara)
 - [Rails microchallenges](../microchallenges/rails-microchallenges.md)
 
-**Refresh on these topics:**
+Refresh on these topics:
 
 - [RSpec Intro](../../../../phase-3-rspec-intro-challenge)
 - Watch [Intro to TDD](https://talks.devbootcamp.com/rspec-intro)
@@ -87,7 +88,8 @@
 
 ---
 
-## Tuesday - Integration and Controller Testing
+## Tuesday
+### Integration and Controller Testing
 
 ### Core
 
@@ -108,7 +110,8 @@
 
 ---
 
-## Wednesday - Advanced JavaScript
+## Wednesday
+### Advanced JavaScript
 
 ### Core
 
@@ -132,14 +135,18 @@
 
 ---
 
-## Thursday - Advanced JavaScript
+## Thursday
+### Advanced JavaScript
 
 ### Core
 
 **Talks**
 
-- JavaScripty Talks
+JavaScripty Talks
 
+**Lecture**
+
+No lecture.
 
 **Challenges**
 
@@ -153,7 +160,8 @@
 
 ---
 
-## Friday - JavaScript Project
+## Friday
+### JavaScript Project
 
 **Talks**
 

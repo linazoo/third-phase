@@ -15,16 +15,18 @@
 
 ---
 
-## Monday - Client Project - Day 1/3
+## Monday
+### Client Project - Day 1/3
 
 ### Core
 
 **Group Project**
 
-- [Client Project](../../../../client-project-challenge)
-- You should follow this [Group Project process](../resources/group_project_process.md) to get practice with the standard development team workflow.
+[Client Project](../../../../client-project-challenge)
 
-**Today, you will:**
+You should follow this [Group Project process](../resources/group_project_process.md) to get practice with the standard development team workflow.
+
+Today, you will:
 
 - meet with your client to get your project's requirements,
 - determine your team's working process,
@@ -55,7 +57,8 @@
 
 ----
 
-## Tuesday - Client Project - Day 2/3
+## Tuesday
+### Client Project - Day 2/3
 
 ### Core
 
@@ -63,7 +66,7 @@
 
 - [Client Project](../../../../client-project-challenge)
 
-**Today you will:**
+Today you will:
 
 - continue working on your user stories,
 - continue testing
@@ -79,15 +82,16 @@
 
 ---
 
-## Wednesday - Client Project - Day 3/3
+## Wednesday
+### Client Project - Day 3/3
 
 ### Core
 
 **Group Project**
 
-- [Client Project](../../../../client-project-challenge)
+[Client Project](../../../../client-project-challenge)
 
-**Today, you will:**
+Today, you will:
 
 - continue working on your client features in the morning,
 - spend some time finalizing your project (styling, refactoring, adding documentation, etc.), and
@@ -99,14 +103,15 @@
 
 ---
 
-## Thursday - Final Projects Begin!
+## Thursday
+### Final Projects
 
 ### Core
 
 **Group Project**
 
-- Have a retrospective with your cohort about your client projects and give your teammates feedback about their contributions to your group project
+Have a retrospective with your cohort about your client projects and give your teammates feedback about their contributions to your group project
 
 **Final Projects**
 
-- [Final Projects](../final-projects/)
+[Final Projects](../final-projects/)
