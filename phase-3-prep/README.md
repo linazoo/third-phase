@@ -17,3 +17,4 @@
 
 ## Rails Resources
 [Rails Resources](../resources/rails-resources.md)
+[Rails coming from Sinatra](./rails-sinatra.md)
