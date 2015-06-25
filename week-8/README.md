@@ -20,10 +20,6 @@
 
 ### Core
 
-**Lecture**
-
-Lifecycle of a Project
-
 **Group Project**
 
 [Client Project](../../../../client-project-challenge)
@@ -73,7 +69,7 @@ Today, you will:
 Today you will:
 
 - continue working on your user stories,
-- continue testing,
+- continue testing
 - in the afternoon, meet with your client and demo the project so far. You will then collect their feedback and adjust your user story priorities based on that feedback.
 
 **Prep for Tomorrow**

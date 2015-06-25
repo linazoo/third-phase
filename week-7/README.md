@@ -32,12 +32,20 @@
 
 - Read the [section in the Overview on Rails](../resources/intro-to-p3.md#on-rails).
 * Go through [Learning Rails](../phase-3-prep/learning-rails.md)
+* Watch a talk on rails (see below)
 * [Build a Rails Blog](../../../../rails-blog-challenge)
 * Choose a [Railsy talk topic](../resources/railsy-talk-topics.md)
 * Deploy your Rails app to Heroku **from your personal laptop**
 
+**Talks on Rails (watch one)**
+- [Intro to Rails with Lucas - part 1 (45 min)](https://talks.devbootcamp.com/intro-to-rails-part-1)
+- [Intro to Rails with Lucas - part 2 (1h 15min)](https://talks.devbootcamp.com/intro-to-rails-part-2)
+- [Intro to Rails with Mike - (~2hr)](https://talks.devbootcamp.com/2014-coyotes-aeu-intro-to-rails)
+- [Intro to Rails with Nate Delage (~1hr)](https://talks.devbootcamp.com/rails-intro-1)
+
 ### Additional Resources
 
+- [Cool Shit in Rails](../resources/cool-shit-in-rails.md) (seriously read this)
 - [Rails Resources](../resources/rails-resources.md)
 
 ---
@@ -49,11 +57,8 @@
 
 **Talks**
 
-Railsy Talks
+- Railsy Talks
 
-**Lecture**
-
-Rails Q & A
 
 **Challenges**
 
@@ -71,7 +76,7 @@ Refresh on these topics:
 
 ### Additional Resources
 
-- [Cool Shit in Rails](../resources/cool-shit-in-rails.md)
+- [Cool Shit in Rails](../resources/cool-shit-in-rails.md) (seriously read this)
 - [Rails Guides](http://guides.rubyonrails.org/) will be invaluable to you throughout Phase 3.
   - [Controllers](http://guides.rubyonrails.org/action_controller_overview.html)
   - [Routes](http://guides.rubyonrails.org/routing.html)
@@ -90,11 +95,7 @@ Refresh on these topics:
 
 **Talks**
 
-Railsy Talks
-
-**Lecture**
-
-[Testing Web Apps with RSpec and Capybara](https://talks.devbootcamp.com/2014-salamanders-aeu-testing-web-apps-with-rspec-and-capybara)
+- Railsy Talks
 
 **Challenges**
 
@@ -103,7 +104,8 @@ Railsy Talks
 **Prep for Tomorrow**
 
 - Finish [Rails microchallenges](../microchallenges/rails-microchallenges.md)
-- Read this [Jasmine intro](../../resources/jasmine.md) to get familiar with JavaScript testing.
+- Watch this [Advanced JavaScript Talk](#)
+- Read this [Jasmine intro](../resources/jasmine.md) to get familiar with JavaScript testing.
 - [Jasmine documentation](http://jasmine.github.io)
 
 ---
@@ -115,20 +117,20 @@ Railsy Talks
 
 **Talks**
 
-Gemsy Talks
-
-**Lecture**
-
-Advanced JavaScript
+- Gemsy Talks
 
 **Challenges**
 
 - [Markdown Widget Challenge](../../../../markdown-widget-challenge)
 - [Jasmine MVC](../../../../jasmine-mvc-challenge)
 
-## Additional Resources
+**Reading for tomorrow** 
 
-- [Jasmine intro](../../resources/jasmine.md)
+- [Javascript design patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book/)
+
+### Additional Resources
+
+- [Jasmine intro](../resources/jasmine.md)
 - [Jasmine documentation](http://jasmine.github.io)
 
 ---
@@ -149,7 +151,7 @@ No lecture.
 **Challenges**
 
 - [Behavior Drill: Grocery List](../../../../behavior-drill-grocery-list-challenge)
-- [OOJS Etsy Challenge](../../../../oo-js-etsy-challenge)
+- [256 (a 2048 clone)](../../../../256-challenge)
 
 **Prep for Tomorrow**
 
@@ -163,11 +165,7 @@ No lecture.
 
 **Talks**
 
-JavaScripty Talks
-
-**Lecture**
-
-JavaScript Frameworks and Client-side MVC
+- JavaScripty Talks
 
 **Challenges**
 
@@ -205,5 +203,6 @@ Build something, and then show us on Monday morning. Make yourself proud.
 
 **Prep for Monday**
 
+- Watch this talk on [Lifecycle of a Project (Coding with Care)](https://talks.devbootcamp.com/coding-with-care)
 - Read about [how to create user stories](http://techportal.inviqa.com/2011/07/19/how-to-create-user-stories/)
 - Read the [Group Project Process](../resources/group_project_process.md)
