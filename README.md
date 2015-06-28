@@ -4,7 +4,7 @@
 
 ## Pre-work
 
-[To be completed](phase-3-prep/README.md) the weekend between Phase 2 and Phase 3
+[To be completed](week-7/README.md#pre-work) the weekend between Phase 2 and Phase 3
 
 ## Course Outline
 
