@@ -4,29 +4,13 @@
 
 ## Pre-work
 
-[To be completed](phase-3-prep/README.md) the weekend between Phase 2 and Phase 3
+[To be completed](week-7/README.md#pre-work) the weekend between Phase 2 and Phase 3
 
 ## Course Outline
 
-<table>
-  <tr>
-    <td><b>Week 1</b></td>
-    <td><a href="week-1/monday.md">Monday</a></td>
-    <td><a href="week-1/tuesday.md">Tuesday</td>
-    <td><a href="week-1/wednesday.md">Wednesday</td>
-    <td><a href="week-1/thursday.md">Thursday</td>
-    <td><a href="week-1/friday.md">Friday</td>
-    <td><a href="week-1/weekend.md">Weekend</td>
-  </tr>
-  <tr>
-    <td><b>Week 2</b></td>
-    <td><a href="week-2/monday.md">Monday</td>
-    <td><a href="week-2/tuesday.md">Tuesday</td>
-    <td><a href="week-2/wednesday.md">Wednesday</td>
-    <td><a href="week-2/thursday.md">Thursday</td>
-  </tr>
-</table>
-
+- [Week 7](week-7/)
+- [Week 8](week-8/)
+- [Final Projects](final-projects/)
 
 ## Weekly Cadence
 
@@ -34,5 +18,10 @@
 
 ## Daily Cadence
 
-- Standup every morning of projects immediately following 8am standup
-- Standup every afternoon of projects at 4.45pm
+### During Projects
+
+Standups every day:
+
+- immediately following 8am standup
+- immediately following 1pm standup
+- at 4.45pm

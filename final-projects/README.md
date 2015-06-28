@@ -1,10 +1,10 @@
-# W2 Thursday: Final Projects
+# Final Projects
 
 [Welcome to the Grind](https://www.youtube.com/watch?v=hbkZrOU1Zag)
 
-### Final Projects
-
 Project pitches will occur first thing.  After pitches, you'll all vote on project preferences.  Your instructors will assign each of you to a final project group, trying to give everyone their first or second preferences.
+
+The [Final Projects timeline](timeline.md) has been provided to you, and it is strongly recommended that you follow it. Not only to ensure that you have a great project at the end, but also so that you have a great set of learning experiences to talk about with employers.
 
 ### Tips
 
