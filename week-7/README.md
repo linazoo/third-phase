@@ -47,6 +47,7 @@
 
 - [Cool Shit in Rails](../resources/cool-shit-in-rails.md) (seriously read this)
 - [Rails Resources](../resources/rails-resources.md)
+- [Rails coming from Sinatra](../phase-3-prep/rails-sinatra.md)
 
 ---
 
@@ -143,10 +144,6 @@ Refresh on these topics:
 **Talks**
 
 JavaScripty Talks
-
-**Lecture**
-
-No lecture.
 
 **Challenges**
 
