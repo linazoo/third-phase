@@ -53,7 +53,7 @@ Today, you will:
 - Code Style Guides
   - [Ruby Community Guide](https://github.com/bbatsov/ruby-style-guide)
   - [AirBnB Ruby Guide](https://github.com/airbnb/ruby)
-  - [AirBnB JavaScript Guide](https://github.com/airbnb/javascript)
+  - [AirBnB JavaScript Guide](https://github.com/airbnb/javascript/tree/master/es5)
 
 ----
 
