@@ -28,7 +28,7 @@ Follow the **[Git workflow](./git-workflow.md)** (read it!), including:
 ## Code Style
 * Follow code styleguides:
 	* [AirBnB Ruby Styleguide](https://github.com/airbnb/ruby)
-	* [AirBnB JavaScript Styleguide](https://github.com/airbnb/javascript)
+	* [AirBnB JavaScript Styleguide](https://github.com/airbnb/javascript/tree/master/es5)
 
 ## Testing
 * Continuous Integration with [Travis CI](https://travis-ci.org/)
