@@ -4,4 +4,3 @@
 - [Strong Parameters](./strong-parameters.md)
 - [Mass Assignment Vulernability](./mass-assignment.md)
 - [Virtual Attributes](./virtual-attributes.md)
-- [Rails + AJAX](./rails-ajax.md)
