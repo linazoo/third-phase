@@ -1,4 +1,4 @@
-# Cool Shit You'll Love In Rails
+# Cool Stuff You'll Love In Rails
 
 ## In Controllers
 
