@@ -118,7 +118,7 @@ Refresh on these topics:
 
 **Talks**
 
-- Gemsy Talks
+- Railsy Talks
 
 **Challenges**
 
@@ -143,7 +143,7 @@ Refresh on these topics:
 
 **Talks**
 
-JavaScripty Talks
+Railsy Talks
 
 **Challenges**
 
@@ -162,7 +162,7 @@ JavaScripty Talks
 
 **Talks**
 
-- JavaScripty Talks
+- Railsy Talks
 
 **Challenges**
 
