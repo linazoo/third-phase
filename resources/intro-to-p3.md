@@ -35,7 +35,7 @@ In addition to your standard challenges and group project, you will be asked to 
 - Morning lectures will introduce context for the day's work — except during group projects when there will be no lectures.
 - Instructors will perform code reviews of select challenges and will be as critical and opinionated as they would of a coworker's code.
 - You are expected to submit only 100% peer-reviewed code to your projects using a pull-request Git workflow.
-- Yoga is Wednesdays at 8:00am. Yoga is mandatory during the first two weeks of Phase 3 and optional during final projects.
+- Yoga is Wednesdays at 8:00am. Yoga is mandatory during all three weeks of Phase 3.
 
 ## Learning Goals
 
