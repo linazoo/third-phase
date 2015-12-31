@@ -1,14 +1,12 @@
 # Final Project Timeline & Milestones
 
-## Day 1 | Wednesday
+## Day 1 | Thursday
 
 - Set your team's workflow, process and guidelines.
 - Set a schedule for team standups (cohort standups are already fixed).
 - As a group, figure out and agree upon what you're building.
 - Begin researching your project ideas and any special technologies you might need to make it work.
 - Build a backlog of the user stories that you want to implement.
-
-## Day 2 | Thursday
 
 Find any technologies that you haven't worked with, unfamiliar concepts that you don't understand, or anything that scares you about what you're planning to build - and spike on it.
 
@@ -18,33 +16,34 @@ It's a test to see how difficult an idea might be to work with. You give yoursel
 
 Now you have a good set of learning, and you're ready to build the feature from scratch!
 
-## Day 3 | Friday
+## Day 2 | Friday
 
+- Finish up your spike tasks.
 - Create your project's repository.
-- Get your project immediately deployed and set up with a continuous integration tool.
+- Get your project _**immediately**_ deployed and set up with a continuous integration tool.
 - Focus on the hardest problem in your MVP, finish it, repeat.
 
-## Day 4 & 5 | Saturday & Sunday
+## Day 3 & 4 | Saturday & Sunday
 
 - Focus on the hardest problem in your MVP, finish it, repeat.
 - Decide on and complete MVP by Monday morning.
 
-## Day 6 | Monday
+## Day 5 | Monday
 
 - Get user feedback by showing your project to people, other teams, other cohorts, and instructors.
 - Reprioritize your backlog in line with the user feedback you got.
 - Continue working on the next most important thing in your backlog, finish it, repeat.
 
-## Day 7 | Tuesday
+## Day 6 | Tuesday
 
 - Continue working on the next most important thing in your backlog, finish it, repeat.
 
-## Day 8 | Wednesday
+## Day 7 | Wednesday
 
-- UI/UX Review (Jonathan)
+- UI/UX Review
 - Presentation: Outline
 
-## Day 9 | Thursday
+## Day 8 | Thursday
 
 - 8AM: Feature freeze (no new features)
 - Fix bugs, polish your UI and improve test coverage.
@@ -52,7 +51,7 @@ Now you have a good set of learning, and you're ready to build the feature from 
 - Do a final deploy and run through your app demo in production.
 - Shower - seriously, please shower
 
-## Day 10 | Friday
+## Day 9 | Friday
 
 - 8AM: Code freeze (no code, database or UI changes at all)
 - Put together your presentations as a team and practice them
