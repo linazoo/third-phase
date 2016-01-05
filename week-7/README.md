@@ -18,6 +18,12 @@
 
 ---
 
+## Groups ##
+
+[Week 7 groups](../../wiki/groups.md#week-7)
+
+---
+
 ## Pre-work
 
 ### Core

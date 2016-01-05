@@ -15,6 +15,12 @@
 
 ---
 
+## Groups ##
+
+[Week 8 groups](../../wiki/groups.md#week-8)
+
+---
+
 ## Monday
 ### Client Project - Day 1/3
 

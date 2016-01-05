@@ -1,7 +1,5 @@
 # Phase 3 Guide
 
-**[Groups](../../wiki/groups)**
-
 ## Course Outline
 
 <table>
