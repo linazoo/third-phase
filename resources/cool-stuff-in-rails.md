@@ -20,7 +20,7 @@ end
 
 #### `before_action`
 
-A `before_action` is usually used to perform pre-work necessary for a successful request. If a `before_action` returns falsy, the request will stop processing and an error status code will be returned to the client.
+A [`before_action`](http://guides.rubyonrails.org/action_controller_overview.html#filters) is a "filter" usually used to perform work necessary for an action to do it's work. If a `before_action` renders or redirects, the action will not run. If there are additional filters scheduled to run after that filter, they are also cancelled.
 
 ```ruby
 before_action :get_post
@@ -32,13 +32,7 @@ def get_post
 end
 ```
 
-#### `skip_before_action`
-
-A `skip_before_action` is used rarely, and usually only to skip things that are used almost everywhere - except in one or two rare cases like a home page.
-
-```ruby
-skip_before_action :authenticate, only: [:index]
-```
+Read [more about filters](http://guides.rubyonrails.org/action_controller_overview.html#filters) here on the Rails Guides.
 
 #### `render` vs. `redirect` vs. `head`
 
