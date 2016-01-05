@@ -1,11 +1,11 @@
 
-# Responsive Web Design 
+# Responsive Web Design
 
 Look into responsive web design.  What is it? Why is it used?
 
 - Read: [Beginners guide to responsive web design](http://blog.teamtreehouse.com/beginners-guide-to-responsive-web-design)
-- Go through these slides: [Introduction to Responsive Web Design and Compatability](http://girldevelopit.com/assets/intermediate-html-css/class4.html)
-	- Do the exercises in the slides using these [practice files](http://girldevelopit.com/assets/intermediate-html-css/class4.zip)
+- Go through these slides: [Intermediate HTML & CSS Workshop slides 143-162](http://girldevelopit.github.io/gdi-featured-intermediate-html-css/#/143)
+	- Do the exercises in the slides using these [practice files](http://girldevelopit.github.io/gdi-featured-intermediate-html-css/workshop-files.zip)
 
 **OR**
 
@@ -14,7 +14,7 @@ Look into responsive web design.  What is it? Why is it used?
 ### Check different sizes and devices
 
 How does it look when
-- on your phone 
+- on your phone
 - on a tablet
 - on really wide screen
 - resized really small
@@ -27,5 +27,5 @@ You can try using [QuirkTools](http://quirktools.com/screenfly) to see a site in
 - [Modernizr](http://modernizr.com/)
 
 ### Additional resources:
-- [Web Accessibility](http://girldevelopit.com/assets/web-accessibility/index.html)
+- [GDI: Web Accessibility Workshops](http://girldevelopit.github.io/girldevelopit-rdu-access/#/)
 - [Change your browsers user agent](http://osxdaily.com/2013/01/16/change-user-agent-chrome-safari-firefox/)

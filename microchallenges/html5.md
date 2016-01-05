@@ -5,5 +5,5 @@ We think of the web and websites as mostly static. They look the way they look. 
 Do some research into standard practices of web design, reset css, and HTML5. Use the links below *and* look for resources on the web. If you find good ones, share them with your cohort in the Google+ community!
 
 * Read: [HTML5 and the document outlining algorithm](http://www.smashingmagazine.com/2011/08/html5-and-the-document-outlining-algorithm/)
-* Go through these slides: [Structure standards and HTML5](http://girldevelopit.github.io/gdi-featured-intermediate-html-css/#/8)
+* Go through these slides: [Intermediate HTML & CSS Workshop slides 25-42](http://girldevelopit.github.io/gdi-featured-intermediate-html-css/#/25)
 	* Complete the exercises in the slides using the [practice files](http://girldevelopit.github.io/gdi-featured-intermediate-html-css/workshop-files.zip)
