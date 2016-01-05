@@ -8,12 +8,12 @@
   </tr>
 
   <tr>
-    <th>[Pre-Work](./week-7/#pre-work)</th>
+    <th><a href="./week-7/#pre-work">Pre-Work</a></th>
     <td colspan="6">must complete before beginning P3</td>
   </tr>
 
   <tr>
-    <th>[Week 7](./week-7/)</th>
+    <th><a href="./week-7/">Week 7</a></th>
     <td><a href="./week-7/#monday">Monday</a></a></td>
     <td><a href="./week-7/#tuesday">Tuesday</a></td>
     <td><a href="./week-7/#wednesday">Wednesday</a></td>
@@ -23,7 +23,7 @@
   </tr>
 
   <tr>
-    <th>[Week 8](week-8/)</th>
+    <th><a href="./week-8/">Week 8</a></th>
     <td><a href="./week-8/#monday">Monday</a></a></td>
     <td><a href="./week-8/#tuesday">Tuesday</a></td>
     <td><a href="./week-8/#wednesday">Wednesday</a></td>
@@ -31,7 +31,7 @@
   </tr>
 
   <tr>
-    <th>[Week 9](./week-9/)</th>
+    <th><a href="./week-9/">Week 9</a></th>
     <td colspan="6"><a href="./week-8/#final-projects">Final Projects</a></td>
   </tr>
 </table>
