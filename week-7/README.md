@@ -132,6 +132,7 @@ Refresh on these topics:
 
 ### Additional Resources
 
+- [Javascript design patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 - [Jasmine intro](../resources/jasmine.md)
 - [Jasmine documentation](http://jasmine.github.io)
 
