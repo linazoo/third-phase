@@ -130,10 +130,6 @@ Refresh on these topics:
 - [Markdown Widget Challenge](../../../../markdown-widget-challenge)
 - [Jasmine MVC](../../../../jasmine-mvc-challenge)
 
-**Reading for tomorrow** 
-
-- [Javascript design patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book/)
-
 ### Additional Resources
 
 - [Jasmine intro](../resources/jasmine.md)
