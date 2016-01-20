@@ -79,7 +79,6 @@
 Refresh on these topics:
 
 - [RSpec Intro](../../../../phase-3-rspec-intro-challenge)
-- Watch [Intro to TDD](https://talks.devbootcamp.com/rspec-intro)
 
 ### Additional Resources
 
