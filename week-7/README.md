@@ -51,7 +51,7 @@
 
 ### Additional Resources
 
-- [Cool Shit in Rails](../resources/cool-shit-in-rails.md) (seriously read this)
+- [Cool Stuff in Rails](../resources/cool-stuff-in-rails.md) (seriously read this)
 - [Rails Resources](../resources/rails-resources.md)
 - [Rails coming from Sinatra](../phase-3-prep/rails-sinatra.md)
 
@@ -82,7 +82,7 @@ Refresh on these topics:
 
 ### Additional Resources
 
-- [Cool Shit in Rails](../resources/cool-shit-in-rails.md) (seriously read this)
+- [Cool Stuff in Rails](../resources/cool-stuff-in-rails.md) (seriously read this)
 - [Rails Guides](http://guides.rubyonrails.org/) will be invaluable to you throughout Phase 3.
   - [Controllers](http://guides.rubyonrails.org/action_controller_overview.html)
   - [Routes](http://guides.rubyonrails.org/routing.html)
