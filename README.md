@@ -49,7 +49,7 @@ Time    | Activity
 ---     | ---
 7:45am  | Check in with accountability buddies
 8:00am  | Morning Announcements
-8:05am  | Daily Progress Checkin (or following yoga at 9:10am)
+8:05am  | Daily Progress Checkin
 8:25am  | Challenges/Breakouts
 11:30am | Lunch
 1:00pm  | Afternoon Announcements
