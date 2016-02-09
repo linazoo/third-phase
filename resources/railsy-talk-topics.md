@@ -1,5 +1,5 @@
 # DO NOT MODIFY THIS FILE
-### IMPORTANT: Write down your topic choice in the [Railsy Talks Wiki](../../../wiki/Railsy-Talks).  
+### IMPORTANT: Record your topic choice in the [Railsy Talks Wiki](../../../wiki/Railsy-Talks).  
 Make sure you don't start working on a topic that has already been picked by someone else!
 
 ## Railsy Talk Topics
