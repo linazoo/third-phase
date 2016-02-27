@@ -1,5 +1,6 @@
 # DO NOT MODIFY THIS FILE
-Choose your topic on the [wiki](../../../wiki/Railsy-Talks)
+### IMPORTANT: Record your topic choice in the [Railsy Talks Wiki](../../../wiki/Railsy-Talks).  
+Make sure you don't start working on a topic that has already been picked by someone else!
 
 ## Railsy Talk Topics
 
@@ -13,9 +14,6 @@ Your talk should include:
 
 Your talk should be **5-10** minutes and should be prepared in
 advance.
-
-# DO NOT MODIFY THIS FILE
-Choose your topic on the [wiki](../../../wiki/Railsy-Talks)
 
 ### Topics
 
