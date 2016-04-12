@@ -26,6 +26,10 @@
 
 ### Core
 
+**Talks**
+
+- Gemsy Talks
+
 **Group Project**
 
 [Client Project](../../../../client-project-challenge)
@@ -66,6 +70,10 @@ Today, you will:
 ## Tuesday
 ### Client Project - Day 2/3
 
+**Talks**
+
+- Gemsy Talks
+
 ### Core
 
 **Group Project**
@@ -90,6 +98,10 @@ Today you will:
 
 ## Wednesday
 ### Client Project - Day 3/3
+
+**Talks**
+
+- Gemsy Talks
 
 ### Core
 

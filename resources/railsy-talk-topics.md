@@ -1,5 +1,7 @@
 # DO NOT MODIFY THIS FILE
-### IMPORTANT: Record your topic choice in the [Railsy Talks Wiki](../../../wiki/Railsy-Talks).  
+
+### IMPORTANT: Once you've chosen your topic from the list below, enter it on the schedule on the [Railsy & Gemsy Talks Wiki](../../../wiki/railsy-and-gemsy-talks).  
+
 Make sure you don't start working on a topic that has already been picked by someone else!
 
 ## Railsy Talk Topics
