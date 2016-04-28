@@ -19,38 +19,9 @@
 
 [Week 8 groups](../../wiki/groups.md#week-8)
 
----
-
-## Monday
-### Client Project - Day 4/4
-
-### Core
-
-**Talks**
-
-- Gemsy Talks
-
-**Group Project**
-
-[Client Project](../../../../client-project-challenge)
-
-Today, you will:
-
-- continue working on your client features in the morning
-- spend some time finalizing your project (styling, refactoring, adding documentation, etc.)
-- demo your project to your cohort
-- have a retrospective with your cohort about your client projects and give your teammates feedback about their contributions to your group project
-
-**Pitch Workshop**
-
-**Prep for Tomorrow**
-- Watch this [Advanced JavaScript Talk](https://talks.devbootcamp.com/mvc-oojs-memory-game)
-- Read this [Jasmine intro](../resources/jasmine.md) to get familiar with JavaScript testing.
-- [Jasmine documentation](http://jasmine.github.io)
-
 ----
 
-## Tuesday
+## Monday
 ### Advanced JavaScript
 
 ### Core
@@ -85,6 +56,21 @@ Gemsy Talks
 
 - [Behavior Drill: Grocery List](../../../../behavior-drill-grocery-list-challenge)
 - [256 (a 2048 clone)](../../../../256-challenge)
+
+---
+
+## Wednesday
+### Advanced JavaScript
+
+### Core
+
+**Talks**
+
+Gemsy Talks
+
+**Challenges**
+
+- [Lil Twitter](../../../../lil-twitter-challenge)
 
 **Prep for Tomorrow**
 
