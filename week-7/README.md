@@ -39,7 +39,7 @@
 * Go through [Learning Rails](../phase-3-prep/learning-rails.md)
 * Watch a talk on rails (see below)
 * [Build a Rails Blog](../../../../rails-blog-challenge)
-* Choose a [Railsy talk topic](../resources/railsy-talk-topics.md)
+* Choose a [Railsy talk (Week 1)](../resources/railsy-talk-topics.md) or [Gemsy Talk (week 2)](../resources/gemsy_talk_topics.md). These are short talks which you will give to the rest of the cohort.
 * Deploy your Rails app to Heroku **from your personal laptop**
 
 **Talks on Rails (watch one)**

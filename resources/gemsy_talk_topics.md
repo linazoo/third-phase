@@ -1,5 +1,8 @@
 # DO NOT MODIFY THIS FILE
-Choose your topic on the [wiki](../../../wiki/gemsy-talk-topics)
+
+### IMPORTANT: Once you've chosen your topic from the list below, enter it on the schedule on the [Railsy & Gemsy Talks Wiki](../../../wiki/railsy-and-gemsy-talks).  
+
+Make sure you don't start working on a topic that has already been picked by someone else!
 
 ## Gemsy Talk Topics
 
@@ -13,13 +16,8 @@ Choose *one* gem *you have never used before*.  Your talk should include:
 Your talk should be **5-10** minutes and should be prepared in
 advance.
 
-
-# DO NOT MODIFY THIS FILE
-Choose your topic on the [wiki](../../../wiki/gemsy-talk-topics)
-
 ### Gems/Libraries
 Organized by topic and some include resources -- you can choose just *one* of the gems/library listed in the section.
-
 
 #### Professional Authentication
 * Clearance
@@ -146,8 +144,3 @@ Resources
 *How to create a gem*<br>
 Resources
 * [RubyGems Guide](http://guides.rubygems.org/)
-
-
-# DO NOT MODIFY THIS FILE
-Choose your topic on the [wiki](../../../wiki/gemsy-talk-topics)
-

@@ -46,6 +46,10 @@
 ## Tuesday
 ### Advanced JavaScript
 
+**Talks**
+
+- Gemsy Talks
+
 ### Core
 
 **Talks**
@@ -60,6 +64,10 @@ Gemsy Talks
 
 ## Wednesday
 ### Advanced JavaScript
+
+**Talks**
+
+- Gemsy Talks
 
 ### Core
 

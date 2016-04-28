@@ -38,7 +38,7 @@
 
 ## Weekly Cadence
 
-- Yoga: mandatory once per week, classes available 11:45am - 12:30pm Tuesday through Wednesday
+- Yoga: mandatory once per week, classes available 11:45am - 12:30pm Tuesday through Thursday
 - Engineering Empathy
   - Week One
     - Team Dynamics (1 hour)
