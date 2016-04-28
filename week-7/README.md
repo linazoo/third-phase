@@ -30,7 +30,6 @@
 
 **Prep for Monday**
 
-* [Self-assessment for incoming phase 3 students](../phase-3-prep/self-assessment.md)
 * Read [Intro to Phase 3](../resources/intro-to-p3.md)
 * Read [Github Workflow](../resources/git-workflow.md)
 
@@ -65,7 +64,6 @@
 **Talks**
 
 - Railsy Talks
-
 
 **Challenges**
 
@@ -106,18 +104,18 @@ Refresh on these topics:
 **Challenges**
 
 - [Rocket, Paper-plane, Scissors](../../../../rocket-paperplane-scissors-challenge)
+- [TDD Favorite Songs Application](../../../../tdd-favorite-songs-rails-challenge)
 
 **Prep for Tomorrow**
 
-- Finish [Rails microchallenges](../microchallenges/rails-microchallenges.md)
-- Watch this [Advanced JavaScript Talk](https://talks.devbootcamp.com/mvc-oojs-memory-game)
-- Read this [Jasmine intro](../resources/jasmine.md) to get familiar with JavaScript testing.
-- [Jasmine documentation](http://jasmine.github.io)
+- Watch this talk on [Lifecycle of a Project (Coding with Care)](https://talks.devbootcamp.com/coding-with-care)
+- Read about [how to create user stories](http://techportal.inviqa.com/2011/07/19/how-to-create-user-stories/)
+- Read the [Group Project Process](../resources/group_project_process.md)
 
 ---
 
 ## Wednesday
-### Advanced JavaScript
+### Client Project - Day 1/3
 
 ### Core
 
@@ -125,62 +123,86 @@ Refresh on these topics:
 
 - Railsy Talks
 
-**Challenges**
+**Group Project**
 
-- [Markdown Widget Challenge](../../../../markdown-widget-challenge)
-- [Jasmine MVC](../../../../jasmine-mvc-challenge)
+[Client Project](../../../../client-project-challenge)
+
+You should follow this [Group Project process](../resources/group_project_process.md) to get practice with the standard development team workflow.
+
+Today, you will:
+
+- meet with your client to get your project's requirements
+- determine your team's working process
+- write out and plan your user stories
+- set up your CI tools, code coverage and deployment environment
+- begin working on your features
+
+**Prep for Tomorrow**
+
+- Read up on good commit messages
+    - [5 Tips for a Better Commit Message](http://robots.thoughtbot.com/5-useful-tips-for-a-better-commit-message)
+    - [Git Commit Message Suggestions](http://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html)
+- Read [Sandi Metz' Rules For Developers](http://robots.thoughtbot.com/sandi-metz-rules-for-developers).
 
 ### Additional Resources
 
-- [Javascript design patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book/)
-- [Jasmine intro](../resources/jasmine.md)
-- [Jasmine documentation](http://jasmine.github.io)
+- Code Coverage
+  - [simplecov](https://github.com/colszowka/simplecov)
+  - [Coveralls](https://coveralls.io/)
+- Continuous Integration (CI) services
+  - [TravisCI](https://travis-ci.org) and Nate's [guide to Travis](../resources/travis.md)
+  - [CircleCI](https://circleci.com)
+  - [Codeship](https://codeship.com/)
+- Code Style Guides
+  - [Ruby Community Guide](https://github.com/bbatsov/ruby-style-guide)
+  - [AirBnB Ruby Guide](https://github.com/airbnb/ruby)
+  - [AirBnB JavaScript Guide](https://github.com/airbnb/javascript/tree/master/es5)
 
 ---
 
 ## Thursday
-### Advanced JavaScript
+### Client Project - Day 2/3
 
 ### Core
 
 **Talks**
 
-Railsy Talks
+- Railsy Talks
 
-**Challenges**
+**Group Project**
 
-- [Behavior Drill: Grocery List](../../../../behavior-drill-grocery-list-challenge)
-- [256 (a 2048 clone)](../../../../256-challenge)
+- [Client Project](../../../../client-project-challenge)
 
-**Prep for Tomorrow**
+Today you will:
 
-- Watch Nate's [intro lecture](https://talks.devbootcamp.com/backbone-intro)
-- [Emails example application](../../../../emails-backbone-example) from the lecture
+- continue working on your user stories
+- continue testing
+- in the afternoon, meet with your client and demo the project so far. You will then collect their feedback and adjust your user story priorities based on that feedback.
+
+### Additional Resources
+
+- [Protecting Secret Tokens in Open Source Software](https://github.com/devbootcamp/reference/wiki/Open-Source-Secrets)
 
 ---
 
 ## Friday
-### JavaScript Project
+### Client Project - Day 3/3
+
+### Core
 
 **Talks**
 
 - Railsy Talks
 
-**Challenges**
+**Group Project**
 
-- [Li'l Twitter](../../../../lil-twitter-challenge)
+[Client Project](../../../../client-project-challenge)
 
-### Additional Resources
+Today, you will:
 
-- [Backbone.js](http://backbonejs.org/)
-- [Emails example application](../../../../emails-backbone-example) from the lecture
-- Nate's [intro lecture](https://talks.devbootcamp.com/backbone-intro)
-- [Backbone Tutorials](http://backbonetutorials.com/)
-  - [What is a model?](http://backbonetutorials.com/what-is-a-model/)
-  - [What is a view?](http://backbonetutorials.com/what-is-a-view/)
-  - [What is a router?](http://backbonetutorials.com/what-is-a-router/)
-  - [What is a collection?](http://backbonetutorials.com/what-is-a-collection/)
-- [TodoMVC in Backbone](http://todomvc.com/examples/backbone/) ([source](https://github.com/tastejs/todomvc/tree/gh-pages/examples/backbone))
+- continue working on your client features in the morning
+- spend some time finalizing your project (styling, refactoring, adding documentation, etc.)
+- demo your project to your cohort
 
 ---
 
@@ -194,14 +216,13 @@ Choose a [Gemsy Talk Topic](../resources/gemsy_talk_topics.md) (using a Gem with
 
 **Solo Project**
 
-I want you to take this opportunity before final projects begin to build something that satisfies and expands your curiosity. Build an app with a client-side framework. Explore a different data store. Deploy a Rails application to a VPS like DigitalOcean or Linode that you set up yourself. Write a JavaScript game. Write an app in Python. Write one tiny app six times in six different JavaScript frameworks.
+We want you to take this opportunity before final projects begin to build something that satisfies and expands your curiosity. Build an app with a client-side framework. Explore a different data store. Deploy a Rails application to a VPS like DigitalOcean or Linode that you set up yourself. Write a JavaScript game. Write an app in Python. Write one tiny app six times in six different JavaScript frameworks.
 
 Satisfy that curious person that made you sign up to DBC in the first place who's been watching the last 7 weeks go by, picking up knowledge and power and wondering how to use it.
 
 Build something, and then show us on Monday morning. Make yourself proud.
 
 **Prep for Monday**
-
-- Watch this talk on [Lifecycle of a Project (Coding with Care)](https://talks.devbootcamp.com/coding-with-care)
-- Read about [how to create user stories](http://techportal.inviqa.com/2011/07/19/how-to-create-user-stories/)
-- Read the [Group Project Process](../resources/group_project_process.md)
+- Watch this [Advanced JavaScript Talk](https://talks.devbootcamp.com/mvc-oojs-memory-game)
+- Read this [Jasmine intro](../resources/jasmine.md) to get familiar with JavaScript testing.
+- [Jasmine documentation](http://jasmine.github.io)

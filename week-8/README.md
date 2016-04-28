@@ -19,56 +19,32 @@
 
 [Week 8 groups](../../wiki/groups.md#week-8)
 
----
-
-## Monday
-### Client Project - Day 1/3
-
-### Core
-
-**Talks**
-
-- Gemsy Talks
-
-**Group Project**
-
-[Client Project](../../../../client-project-challenge)
-
-You should follow this [Group Project process](../resources/group_project_process.md) to get practice with the standard development team workflow.
-
-Today, you will:
-
-- meet with your client to get your project's requirements,
-- determine your team's working process,
-- write out and plan your user stories,
-- set up your CI tools, code coverage and deployment environment, and
-- begin working on your features.
-
-**Prep for Tomorrow**
-
-- Read up on good commit messages
-    - [5 Tips for a Better Commit Message](http://robots.thoughtbot.com/5-useful-tips-for-a-better-commit-message)
-    - [Git Commit Message Suggestions](http://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html)
-- Read [Sandi Metz' Rules For Developers](http://robots.thoughtbot.com/sandi-metz-rules-for-developers).
-
-### Additional Resources
-
-- Code Coverage
-  - [simplecov](https://github.com/colszowka/simplecov)
-  - [Coveralls](https://coveralls.io/)
-- Continuous Integration (CI) services
-  - [TravisCI](https://travis-ci.org) and Nate's [guide to Travis](../resources/travis.md)
-  - [CircleCI](https://circleci.com)
-  - [Codeship](https://codeship.com/)
-- Code Style Guides
-  - [Ruby Community Guide](https://github.com/bbatsov/ruby-style-guide)
-  - [AirBnB Ruby Guide](https://github.com/airbnb/ruby)
-  - [AirBnB JavaScript Guide](https://github.com/airbnb/javascript/tree/master/es5)
-
 ----
 
+## Monday
+### Advanced JavaScript
+
+### Core
+
+**Talks**
+
+- Gemsy Talks
+
+**Challenges**
+
+- [Markdown Widget Challenge](../../../../markdown-widget-challenge)
+- [Jasmine MVC](../../../../jasmine-mvc-challenge)
+
+### Additional Resources
+
+- [Javascript design patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book/)
+- [Jasmine intro](../resources/jasmine.md)
+- [Jasmine documentation](http://jasmine.github.io)
+
+---
+
 ## Tuesday
-### Client Project - Day 2/3
+### Advanced JavaScript
 
 **Talks**
 
@@ -76,28 +52,18 @@ Today, you will:
 
 ### Core
 
-**Group Project**
+**Talks**
 
-- [Client Project](../../../../client-project-challenge)
+Gemsy Talks
 
-Today you will:
+**Challenges**
 
-- continue working on your user stories,
-- continue testing
-- in the afternoon, meet with your client and demo the project so far. You will then collect their feedback and adjust your user story priorities based on that feedback.
-
-**Prep for Tomorrow**
-
-- Watch [Web Performance](https://talks.devbootcamp.com/web-performance-3)
-
-### Additional Resources
-
-- [Protecting Secret Tokens in Open Source Software](https://github.com/devbootcamp/reference/wiki/Open-Source-Secrets)
+- [256 (a 2048 clone)](../../../../256-challenge)
 
 ---
 
 ## Wednesday
-### Client Project - Day 3/3
+### Advanced JavaScript
 
 **Talks**
 
@@ -105,19 +71,13 @@ Today you will:
 
 ### Core
 
-**Group Project**
+**Talks**
 
-[Client Project](../../../../client-project-challenge)
+Gemsy Talks
 
-Today, you will:
+**Challenges**
 
-- continue working on your client features in the morning,
-- spend some time finalizing your project (styling, refactoring, adding documentation, etc.), and
-- demo your project to your cohort
-
-**Prep for Tomorrow**
-
-- Read [Agile Retrospectives: Why do them?](https://medium.com/@benlinders/agile-retrospectives-why-do-them-2f9ba6a7ae32)
+- [Lil Twitter](../../../../lil-twitter-challenge)
 
 ---
 
@@ -125,10 +85,6 @@ Today, you will:
 ### Final Projects
 
 ### Core
-
-**Group Project**
-
-Have a retrospective with your cohort about your client projects and give your teammates feedback about their contributions to your group project
 
 **Final Projects**
 
