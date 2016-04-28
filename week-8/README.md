@@ -43,7 +43,7 @@
 
 ---
 
-## Wednesday
+## Tuesday
 ### Advanced JavaScript
 
 ### Core
@@ -54,7 +54,6 @@ Gemsy Talks
 
 **Challenges**
 
-- [Behavior Drill: Grocery List](../../../../behavior-drill-grocery-list-challenge)
 - [256 (a 2048 clone)](../../../../256-challenge)
 
 ---
@@ -71,10 +70,6 @@ Gemsy Talks
 **Challenges**
 
 - [Lil Twitter](../../../../lil-twitter-challenge)
-
-**Prep for Tomorrow**
-
-- Read [Agile Retrospectives: Why do them?](https://medium.com/@benlinders/agile-retrospectives-why-do-them-2f9ba6a7ae32)
 
 ---
 
