@@ -104,6 +104,7 @@ Refresh on these topics:
 **Challenges**
 
 - [Rocket, Paper-plane, Scissors](../../../../rocket-paperplane-scissors-challenge)
+- [TDD Favorite Songs Application](../../../../tdd-favorite-songs-rails-challenge)
 
 **Prep for Tomorrow**
 
