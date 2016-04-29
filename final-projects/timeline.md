@@ -50,6 +50,7 @@ Now you have a good set of learning, and you're ready to build the feature from 
 - Figure out your app demo for tomorrow, and use that to guide your bug fixing.
 - Do a final deploy and run through your app demo in production.
 - Shower - seriously, please shower
+- Create [superlatives](http://bootbadge.devbootcamp.com/) for your fellow cohort-mates!
 
 ## Day 9 | Friday
 
