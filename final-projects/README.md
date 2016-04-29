@@ -17,5 +17,5 @@ The [Final Projects timeline](timeline.md) has been provided to you, and it is s
 - [Group Project Process](../resources/group_project_process.md)
 - [Git Workflow](../resources/git-workflow.md)
 - [Travis: Continuous Integration for Fun and Profit](../resources/travis.md)
-- [Final Project Timeline](../resources/final-projects.md)
+- [Final Project Timeline](timeline.md)
 - [Protecting Secret Tokens in Open Source Software](https://github.com/Devbootcamp/reference/wiki/Open-Source-Secrets)
