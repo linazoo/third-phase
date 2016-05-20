@@ -20,7 +20,7 @@
 
 ## Groups ##
 
-[Week 7 groups](../../wiki)
+[Week 7 groups](../wiki)
 
 ---
 
