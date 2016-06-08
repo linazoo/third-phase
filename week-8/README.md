@@ -32,8 +32,7 @@
 
 **Challenges**
 
-- [Markdown Widget Challenge](../../../../markdown-widget-challenge)
-- [Jasmine MVC](../../../../jasmine-mvc-challenge)
+- [256 (a 2048 clone)](../../../../256-challenge)
 
 ### Additional Resources
 
@@ -58,7 +57,8 @@ Gemsy Talks
 
 **Challenges**
 
-- [256 (a 2048 clone)](../../../../256-challenge)
+- [Markdown Widget Challenge](../../../../markdown-widget-challenge)
+- [Jasmine MVC](../../../../jasmine-mvc-challenge)
 
 ---
 

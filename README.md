@@ -39,10 +39,10 @@
 ## Weekly Cadence
 
 - Yoga: mandatory once per week, classes available 11:45am - 12:30pm Tuesday through Thursday
-- Engineering Empathy
-  - Week One
-    - Team Dynamics (1 hour)
-- Week Three: Careers Chat on Friday at 1:15
+- Week Two:
+  - Tuesday: Team Dynamics EE 10:00 - 11:00
+- Week Three
+  - Friday: Careers Chat at 1:15
 
 ## Daily Cadence (before Final Projects)
 
