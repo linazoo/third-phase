@@ -1,0 +1,34 @@
+{
+  "week-1": {
+    "monday": [
+      "sinatra-to-rails-pick-1-of-3-challenge",
+      "phase-3-rspec-intro-challenge"
+    ],
+    "tuesday": [
+      "tdd-telephone-challenge",
+      "rails-with-rspec-challenge"
+    ],
+    "wednesday": [
+      "overflow-challenge"
+    ],
+    "thursday": [
+      "refactor-this-challenge"
+    ],
+    "friday": [
+
+    ]
+  },
+  "week-2": {
+    "monday": [
+
+    ],
+    "tuesday": [
+      "behavior-drill-grocery-list-challenge",
+      "behavior-drill-post-it-board-v1-challenge",
+      "behavior-drill-post-it-board-v2-challenge"
+    ],
+    "wednesday": [
+
+    ]
+  }
+}
