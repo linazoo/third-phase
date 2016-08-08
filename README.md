@@ -33,6 +33,9 @@
   <tr>
     <th><a href="./week-9/">Week 9</a></th>
     <td colspan="3"><a href="./final-projects/README.md">Final Projects</a></td>
+    <td>Demo Preparation</td>
+    <td>Demonstration and Graduation</td>
+    <td>&nbsp;</td>
   </tr>
 </table>
 
