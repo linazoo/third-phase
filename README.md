@@ -8,7 +8,7 @@
   </tr>
 
   <tr>
-    <th><a href="./week-7/#pre-work">Pre-Work</a></th>
+    <th><a href="./week-7/pre-work.md">Pre-Work</a></th>
     <td colspan="6">must complete before beginning P3</td>
   </tr>
 
