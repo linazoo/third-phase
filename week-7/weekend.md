@@ -18,3 +18,4 @@ Build something, and then show us on Monday morning. Make yourself proud.
 - Watch this [Advanced JavaScript Talk](https://talks.devbootcamp.com/mvc-oojs-memory-game)
 - Read this [Jasmine intro](../resources/jasmine.md) to get familiar with JavaScript testing.
 - [Jasmine documentation](http://jasmine.github.io)
+

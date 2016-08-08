@@ -19,7 +19,7 @@
     <td><a href="./week-7/wednesday.md">Wednesday</a></td>
     <td><a href="./week-7/thursday.md">Thursday</a></td>
     <td><a href="./week-7/friday.md">Friday</a></td>
-    <td><a href="./week-7/#weekend">Weekend</a></td>
+    <td><a href="./week-7/weekend.md">Weekend</a></td>
   </tr>
 
   <tr>
