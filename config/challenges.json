@@ -24,6 +24,22 @@
   "week-8": {
     "monday": [
       "256-challenge"
+    ],
+    "tuesday": [
+      "markdown-widget-challenge",
+      "jasmine-mvc-challenge"
+    ],
+    "wednesday": [
+
+    ],
+    "thursday": [
+
+    ],
+    "friday": [
+
+    ],
+    "weekend": [
+
     ]
   }
 }
