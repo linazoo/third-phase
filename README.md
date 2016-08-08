@@ -27,12 +27,12 @@
     <td><a href="./week-8/monday.md">Monday</a></a></td>
     <td><a href="./week-8/tuesday.md">Tuesday</a></td>
     <td><a href="./week-8/wednesday.md">Wednesday</a></td>
-    <td colspan="3"><a href="./week-8/#final-projects">Final Projects</a></td>
+    <td colspan="3"><a href="./final-projects/README.md">Final Projects</a></td>
   </tr>
 
   <tr>
     <th><a href="./week-9/">Week 9</a></th>
-    <td colspan="6"><a href="./week-8/#final-projects">Final Projects</a></td>
+    <td colspan="3"><a href="./final-projects/README.md">Final Projects</a></td>
   </tr>
 </table>
 
