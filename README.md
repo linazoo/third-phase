@@ -26,7 +26,7 @@
     <th><a href="./week-8/">Week 8</a></th>
     <td><a href="./week-8/monday.md">Monday</a></a></td>
     <td><a href="./week-8/tuesday.md">Tuesday</a></td>
-    <td><a href="./week-8/#wednesday">Wednesday</a></td>
+    <td><a href="./week-8/wednesday.md">Wednesday</a></td>
     <td colspan="3"><a href="./week-8/#final-projects">Final Projects</a></td>
   </tr>
 
