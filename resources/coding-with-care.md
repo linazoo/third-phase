@@ -24,7 +24,7 @@
 - https://github.com/bbatsov/rubocop
 - https://github.com/square/cane
 - https://github.com/seattlerb/flog
-- https://github.com/railsbp/rails\_best\_practices
+- https://github.com/railsbp/rails_best_practices
 - https://github.com/presidentbeef/brakeman
 
 ## Other Things
