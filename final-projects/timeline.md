@@ -48,7 +48,7 @@ scratch!
 ## Day 7 | Wednesday
 
 - UI/UX Review
-- Presentation: Outline
+- [Presentation: Outline](./presentations.md)
 
 ## Day 8 | Thursday
 
