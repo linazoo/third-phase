@@ -1,6 +1,6 @@
 # DO NOT MODIFY THIS FILE
 
-### IMPORTANT: Once you've chosen your topic from the list below, enter it on the schedule on the [Railsy & Gemsy Talks Wiki](../../../wiki/railsy-and-gemsy-talks).  
+### IMPORTANT: Once you've chosen your topic from the list below, enter it on the schedule on the [Railsy & Gemsy Talks Wiki](../../../wiki/railsy-and-gemsy-talks).
 
 Make sure you don't start working on a topic that has already been picked by someone else!
 
@@ -27,7 +27,7 @@ Organized by topic and some include resources -- you can choose just *one* of th
 Resources
 - [Basic user authentication in Rails](http://nycda.com/blog/basic-user-authentication-model-in-rails-4/)
 - [Form based authentication for websites](http://stackoverflow.com/questions/549/the-definitive-guide-to-form-based-website-authentication)
-- [Dos and Don'ts of Client Authentication](http://cookies.lcs.mit.edu/pubs/webauth%3atr.pdf)
+- [Dos and Don'ts of Client Authentication](https://pdos.csail.mit.edu/papers/webauth:sec10.pdf)
 
 #### Background jobs
 * Resque
