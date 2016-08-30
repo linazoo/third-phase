@@ -2,13 +2,13 @@
 
 ### topics
 
-- defining agile 
+- defining agile
   - mindset
   - values
   - principles
   - practices
 - working agreements
-- user stories 
+- user stories
 - story points and agile estimation
 - information radiators
 
@@ -31,7 +31,7 @@ anyway, here's a picture that will help us move along:
 
 ### so what's this picture about?
 
-there's this mindset, a way of thinking, that's defined by the 4 values of the [agile manifesto][], clarified through the [12 principles of agile][] and deployed as a set of [dozens of practices][] with [hundreds](http://pragprog.com/categories/practices) [of](http://www.agiledevpractices.com/program/) [variants](http://en.wikipedia.org/wiki/Scrum_(development)) [around](http://en.wikipedia.org/wiki/Extreme_Programming) [the](http://en.wikipedia.org/wiki/Feature_Driven_Development) [world](http://en.wikipedia.org/wiki/Dynamic_Systems_Development_Method).  
+there's this mindset, a way of thinking, that's defined by the 4 values of the [agile manifesto][], clarified through the [12 principles of agile][] and deployed as a set of [dozens of practices][] with [hundreds](http://pragprog.com/categories/practices) [of](http://www.agiledevpractices.com/program/) [variants](http://en.wikipedia.org/wiki/Scrum_(development)) [around](http://en.wikipedia.org/wiki/Extreme_Programming) [the](http://en.wikipedia.org/wiki/Feature_Driven_Development) [world](http://en.wikipedia.org/wiki/Dynamic_Systems_Development_Method).
 
 Did you notice how many different links were in that last sentence?
 
@@ -46,7 +46,7 @@ in 2001 a group of seasoned professional developers got together to try to figur
 
 these 4 core values established the "rules to live by" for the agile community and basically no one disagrees on them, ever.  probably because they make a lot of sense, but mostly because they highlight a fundamental difference between the thinking styles of "old" vs "new".  if you're new to software development, these values probably seem too obvious to need to be written down.  what might surprise you is how much of a shock these values were to the industrialized software industry of 2001.
 
-### the 12 principles of agile 
+### the 12 principles of agile
 
 to clarify the intent behind the 4 values, the same group of seasoned professional developers sat down again to write the following:
 
@@ -67,7 +67,7 @@ and with that, agile was born.
 
 ### a few examples of the hundreds of real-world practices
 
-practically speaking, values and principles don't pay the bills.  on real world software projects, people have to make decisions about things like time and space, tools and technologies -- tradeoff after tradeoff.  
+practically speaking, values and principles don't pay the bills.  on real world software projects, people have to make decisions about things like time and space, tools and technologies -- tradeoff after tradeoff.
 
 to help streamline these decisions as well as encode the values and principles into a playbook for professionals, the agile community started collecting, inventing and tweaking the things they did every day.  they called these "practices".
 
@@ -134,18 +134,18 @@ it's important that stories are small so the team can implement a single story w
 
 the velocity doesn't come directly from the stories but from a unit of measuring effort called **story points**.  the conversation around story points is usually a bit confusing at first because most people don;t see the difference between estimating effort in terms of hours vs points until they come to understand the difference between defined vs empirical processes.
 
-let's imagine that we're baking a cake.  
-- we have all the ingredients in front of us.  
-- we have done this many times before using the exact same tools (oven, baking pan, etc).  
+let's imagine that we're baking a cake.
+- we have all the ingredients in front of us.
+- we have done this many times before using the exact same tools (oven, baking pan, etc).
 - we have hung a "do not disturb" sign outside the kitchen door so we know that we will not be disturbed
 
-would you expect that we can estimate how long it will take to finish the cake?  i would.  
+would you expect that we can estimate how long it will take to finish the cake?  i would.
 
-in fact we can probably estimate how long it will take within +/- a minute or two.  
+in fact we can probably estimate how long it will take within +/- a minute or two.
 
-we can do this because 
+we can do this because
 
-(a) all parts of this system  behave in a predictable way (because we're so familiar with them) and 
+(a) all parts of this system  behave in a predictable way (because we're so familiar with them) and
 (b) there are no external influences to interrupt our flow
 
 let's call this thing a **defined process**, like launching a rocket (think: *T-minus-10..9..8..*), or flying in an airplane (although not taking off or landing), or riding a train in Japan.
@@ -183,7 +183,7 @@ and, because we're keen and clever:
 - we would prefer to incorporate the [knowledge of the entire team](http://www.amazon.com/The-Wisdom-Crowds-James-Surowiecki/dp/0385721706)
 - we recognize that, as human beings, relative measurement is easier than absolute measurement (**)
 
-> (**) why is relative easier than absolute?  we're wired for it.  try it now.  look across the room to find two people standing near one another before answering these 2 questions: 
+> (**) why is relative easier than absolute?  we're wired for it.  try it now.  look across the room to find two people standing near one another before answering these 2 questions:
 (would be nice to have some cogsci references here)
 - exactly how tall (in inches) is the person on the left? this is *absolute* measurement.
 - is the person on the left taller or shorter than the person on the right? this is *relative* measurement.
@@ -217,7 +217,7 @@ these radiators might be digital or physical, they might be always visible or se
 [tribe]: http://sethgodin.typepad.com/seths_blog/files/TribesQA2.pdf
 
 [information radiators]: http://www.panic.com/blog/wp-content/uploads/2010/03/statusboard.jpg
-[story boards]: http://www.mountaingoatsoftware.com/system/asset/file/29/MockedTaskBoard.jpg
+[story boards]: http://www.mountaingoatsoftware.com/uploads/articles/MockedTaskBoard.jpg
 [burn down charts]: http://www.mountaingoatsoftware.com/uploads/blog/sprint-burndown.jpg
 [burn up charts]: http://4.bp.blogspot.com/_gez10dNhuPk/SQExi1j16lI/AAAAAAAABlM/pqg4SgFBkIs/s400/Burnup.gif
 
