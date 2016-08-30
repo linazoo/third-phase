@@ -73,7 +73,7 @@ to help streamline these decisions as well as encode the values and principles i
 
 here are a few of the most consistently deployed practices of agile:
 
-- iterations: consistent chunks of time that a team uses to pace itself, usually multiple days or weeks, often variable based on team and project size, complexity and other factors. [more on iterations](http://guide.agilealliance.org/guide/iteration.html)
+- iterations: consistent chunks of time that a team uses to pace itself, usually multiple days or weeks, often variable based on team and project size, complexity and other factors. [more on iterations](https://www.agilealliance.org/glossary/iteration/)
 - pairing: two or more people working together towards the same goal, usually coding together, often with a cooperative stance and sometimes playful or mischievous to keep each other energized.  [more on pairing](http://www.versionone.com/Agile101/Pair_Programming.asp)
 - retrospectives: a sanctioned period of reflection for the entire team with many variations. [this book lists a few](http://www.amazon.com/Agile-Retrospectives-Making-Teams-Great/dp/0977616649)
 - standups: a regular pulse where the team surfaces what is about to happen and any expected blockers, usually daily at a fixed time. [more on standups](http://www.mountaingoatsoftware.com/agile/scrum/daily-scrum/)
