@@ -8,13 +8,20 @@
 - Begin researching your project ideas and any special technologies you might need to make it work.
 - Build a backlog of the user stories that you want to implement.
 
-Find any technologies that you haven't worked with, unfamiliar concepts that you don't understand, or anything that scares you about what you're planning to build - and spike on it.
+Find any technologies that you haven't worked with, unfamiliar concepts that
+you don't understand, or anything that scares you about what you're planning to
+build - and spike on it.
 
 **What's a spike?**
 
-It's a test to see how difficult an idea might be to work with. You give yourself a timebox (for example, two hours) and you go exploring. You try to prove the concept in that timebox. You don't write tests, you don't try to write features. At the end of the two hours, you throw all the code away from your spike - because it was just a proof-of-concept.
+It's a test to see how difficult an idea might be to work with. You give
+yourself a timebox (for example, two hours) and you go exploring. You try to
+prove the concept in that timebox. You don't write tests, you don't try to
+write features. At the end of the two hours, you throw all the code away from
+your spike - because it was just a proof-of-concept.
 
-Now you have a good set of learning, and you're ready to build the feature from scratch!
+Now you have a good set of learning, and you're ready to build the feature from
+scratch!
 
 ## Day 2 | Friday
 
@@ -41,12 +48,12 @@ Now you have a good set of learning, and you're ready to build the feature from 
 ## Day 7 | Wednesday
 
 - UI/UX Review
-- Presentation: Outline
+- [Presentation: Outline](./presentations.md)
 
 ## Day 8 | Thursday
 
-- 8AM: Feature freeze (no new features)
-- Fix bugs, polish your UI and improve test coverage.
+- **Feature freeze (no new features)**
+- Fix bugs, polish your UI and improve test coverage *for BREAKING bugs ONLY*
 - Figure out your app demo for tomorrow, and use that to guide your bug fixing.
 - Do a final deploy and run through your app demo in production.
 - Shower - seriously, please shower
@@ -54,9 +61,9 @@ Now you have a good set of learning, and you're ready to build the feature from 
 
 ## Day 9 | Friday
 
-- 8AM: Code freeze (no code, database or UI changes at all)
+- **Code freeze still in effect (no code, database or UI changes at all)**
 - Put together your presentations as a team and practice them
-- 1PM: Presentations to DBC
-- 3.30PM: Last DBC Rite of Passage
-- 4.30PM: Graduation
+- Presentations to DBC
+- Last DBC Rite of Passage
+- Graduation
 - Celebrate!

@@ -1,12 +1,9 @@
 # Assessment
 
-Hello, this is an assessment.  While some might use the word "pop quiz" to
-describe it, we prefer to think of it as an opportunity for you to
-spontaneously demonstrate your competenencies.
+Hello, this is a self-assessment. These all represent skills that you should
+have acquired (some of which you should have _mastered_) by the end of Phase 2.
 
-The material should be quite familiar to you at this point.
-
-## One:  Paging Dr. Zhivago
+## One:  Paging Dr. Zhivago (Expectation: Very Comfortable)
 
 You have a Doctor `Active Record` class which has many `Patients` through
 `Appointments`. Bob the patient schedules an appointment with Doctor Zhivago.
@@ -20,13 +17,12 @@ bob = Patient.new "Bob"
 ```
 
 BONUS:  Can you create a new patient named "Pasternak" who belongs to Dr.
-Zhivago in one line?
+Zhivago all in one line?
 
 ## Two:  Instruments
 
-A `Doctor` has many Specialties (model class `Specialty`).  When updating his
-profile on Revolution-book, the premier social network of pre-Bolshevik
-society, Dr.  Zhivago sends a request that looks like the following:
+A `Doctor` has many Specialties (model class `Specialty`).  A controller action
+that associates `Specialty`s to `Doctor`s receives the following params hash
 
 ```ruby
 params = {:specialties=>[{:name=>"Prussian Flu"}, {:name=>"Viennese Mumps"}]}
@@ -34,29 +30,32 @@ params = {:specialties=>[{:name=>"Prussian Flu"}, {:name=>"Viennese Mumps"}]}
 
 ```ruby
 zhivago = Doctor.find_by_last_name "Zhivago"
-# What one line can you run to create multiple specialties for the doctor?
 ```
+
+What one line can you run to create multiple specialties for the doctor?
 
 BONUS:  What HTTP protocol should have been used in this interaction?
 
 ## Three:  JavaScript
 
-Wombat Dave told Dr. Zhivago that JavaScript is the bomb.  While practicing to
-get the hang of things, Dr. Zhivago thought a worthy challenge would be to
-create a simple JavaScript class called `Greeter`.  An instance of `Greeter`
-can be initialized with a name.  Invoking `say_hello` on that instance should
-use `console.log()` to print out "Hello" to the initialized name.
+Dr. Zhivago that JavaScript is the bomb so he's studying up after-hours.
 
-Dr. Zhivago wants to make his Greeter say hello to his beloved Lara.  Please
-write the implementation.
+While practicing to get the hang of things, Dr. Zhivago thought a worthy
+challenge would be to create a simple JavaScript class called `Greeter`.  An
+instance of `Greeter` can be initialized with a name.  Invoking `say_hello` on
+that instance should use `console.log()` to print out "Hello" to the
+initialized name.
 
-BONUS:  What's bad form about calling the method `say_hello`?
+Dr. Zhivago wants to initialize his `Greeter` with the name "Lara."
+
+Please write the required code.
+
+THINK DEEPER:  What's bad form about calling the method `say_hello`?
 
 ## Four:  REST
 
-While imprisoned by the revolution Dr. Zhivago dreamt of his beloved Lara and
-of RESTful routes.  But in his dream he could not complete this chart.  Please
-help him.
+Dr. Zhivago decided to build a Sinatra app for storing photos of his patients.
+He built his controllers in line with the REST paradigm.
 
 The chart below describes RESTful routes, but is incomplete:
 
@@ -82,16 +81,18 @@ List the missing path or action below:
 
 ## Five:  After
 
-After escaping his tormentors, Dr. Zhivago moves to Los Angeles to become a
-plastic surgeon to the rich and famous.  He wants to get a list of his new
-patients.  He is the third doctor in our system
+Dr. Zhivago has head about AJAX and wants to make his web page update without a
+page refresh.  He wants to get a list of his new patients. When the route
+`/doctors/:dr_name/patients` receives an asynchronous JSON request, it returns
+an Array of JavaScript objects.
 
 Given:
 
 ```javascript
 $.ajax({
   type: 'GET',
-  url: '/doctors/3/patients'
+  type: "json",
+  url: '/doctors/zhivago/patients'
 });
 ```
 
@@ -103,24 +104,9 @@ Pro-Version:  Add the names to  `<div id="patients">`.
 
 ## Six:  Loneliness Strikes
 
-Dr. Zhivago, now living next to the "Shahs of Sunset" misses his old friends in
-Russia.  He wants to find a lovely lady (`sex`), located in russia (`country`)
-whose age (`age`) is between 40 and 50, who has an (`iq`) greater than 200.  Can
-you use the advanced `AREL` `ActiveRecord` syntax to help the good doctor find
-friendship?
+Dr. Zhivago is looking for romance. He wants to find a lovely lady (`sex`),
+from Russia (`country`) whose age (`age`) is between 40 and 50, who has an
+(`iq`) greater than 200.  What ActiveRecord request would return all matches?
+to help the good doctor find friendship?
 
 As a starter.... `Friend.where....`
-
-## Seven:  Testing
-
-I'm tired of writing contrived prompts.
-
-Write a controller test in RSpec syntax that evaluates whether POSTing
-`name="larry"` returns a JSON object that has a cousin atttribute with the
-value `"Balki"`.
-
-## What's up Dogg
-
-If you have any questions or difficult areas, list them here so that I might
-remedy them for you.
-

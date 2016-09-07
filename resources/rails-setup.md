@@ -2,20 +2,19 @@
 
 ## Choose your version
 
-You may use Rails 3.2 or Rail 4.x for your rails projects.  In either you should use the options to remove Test Unit (because we will test with Rspec) and set the database to postgresql
+You may use Rails Rails 4.x or 5.x for your Rails projects.  In either you
+should use the options to remove the default test framework ("MiniTest") because we will test with Rspec
+and set the database to `postgresql`
 
-To create a new Rails 3.2 project
+To create a new Rails:
 
-  * `gem install rails 3.2.18` if you haven't already
-  * `rails \_3.2.18\_ new PROJECT_NAME -T -d=postgresql`
-
-To create a new Rails 4.x
-
- * `rails new PROJECT_NAME -T -d=postgresql`
+  * `gem install rails VERSION` if you haven't already
+  * `rails new PROJECT_NAME -T -d=postgresql`
 
 ## Configure the database
 
-For working on the DBC machines, your `database.yml` file needs to have no `:username` set - so remove the default that rails provides.
+For working on the DBC machines, your `database.yml` file needs to have no
+`:username` set - so remove the default that rails provides.
 
 ```
 #database.yml sample
@@ -43,7 +42,7 @@ production:
 Your Gemfile should include the following gems:
 ```ruby
 group :development, :test do
-  gem 'rspec-rails', '~>2.14'
+  gem 'rspec-rails'
   gem 'factory_girl_rails'
   gem 'faker'
 end
@@ -55,10 +54,6 @@ group :test do
   gem 'shoulda-matchers'
 end
 ```
-
-**Note:** rspec is currently at version 3.0.* which was a breaking update.  If you are starting a new Rails 4.* project you will probably want to work with rspec 3.0 do not set the version in the gem file (`gem 'rspec-rails'`)  If you are working on a Rails 3.* project - be sure to set the version in the gemfile (`gem 'rspec-rails', '~>2.14'`). See [this blog](http://myronmars.to/n/dev-blog/2014/06/rspec-2-99-0-and-3-0-0-have-been-released) for more detials on which version of rspec you want to use and upgrade issues.
-
-Run
 
 * `bundle`
 * `rails generate rspec:install`
