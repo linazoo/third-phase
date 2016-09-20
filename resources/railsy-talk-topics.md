@@ -26,6 +26,8 @@ custom routing
 * helpers
 * nested forms
 * HAML
+* Hamlit
+* Slim
 * form validation
 * link_to (including method: :delete, if, and unless), form_for,
 button_to and all form helpers
