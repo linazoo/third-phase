@@ -41,41 +41,25 @@
 
 ## Weekly Groups
 
-See [the wiki](../../wiki/Groups) for your weekly groups.
+<- FILL IN DETAILS HERE -> 
 
 ## Weekly Cadence
 
 - Yoga:
-  - optional classes available 11:45am - 12:30pm Tuesday, Wednesday, Thursday
+  - <- FILL IN DETAILS HERE ->
+- Engineering Empathy (EE):
+  - <- FILL IN DETAILS HERE ->
 - Careers:
-  - Friday Week 3 - Chat about upcoming Career week at 1:15 
+  - <- FILL IN DETAILS HERE ->
+- Cohort Fun Activities:
+  - <- FILL IN DETAILS HERE ->
+- Assessment:
+  - <- FILL IN DETAILS HERE ->
 
-## Daily Cadence (before Final Projects)
+## Daily Cadence
 
-Time    | Activity
----     | ---
-7:45am  | Check in with accountability buddies
-8:00am  | Morning Announcements
-8:05am  | Daily Progress Checkin
-8:25am  | Challenges/Breakouts
-11:30am | Lunch
-1:00pm  | Afternoon Announcements
-1:05pm  | Challenges/Breakouts
-5:00pm  | End of core hours
-5:00pm  | After hours learning/mentoring/solo time
-
-## Daily Cadence (during Final Projects)
+<- FILL IN DETAILS HERE ->
 
 Time    | Activity
 ---     | ---
-7:45am  | Check in with final project group
-8:00am  | Morning Announcements
-8:05am  | Morning Project Standup
-8:15am  | Work!
-11:30am | Lunch
-1:00pm  | Afternoon Announcements
-1:05pm  | Afternoon Project Standup
-1:15pm  | Work!
-4:45pm  | Evening Project Standup
-5:00pm  | End of core hours
-5:00pm  | Work!
+        |
