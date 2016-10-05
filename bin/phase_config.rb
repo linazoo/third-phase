@@ -49,7 +49,7 @@ module PhaseConfig
   def find_challenges(path)
     repo = File.expand_path(path)
     config_dir = "#{repo}/config"
-    glob_pattern = "#{repo}/**/week-*/{monday,tuesday,wednesday,thursday,friday,weekend}.md"
+    glob_pattern = "#{repo}/**/week-*/{monday,tuesday,wednesday,thursday,friday,weekend,pre-work}.md"
     challenge_pattern = /([^\/]*-challenge)\)/
     challenges = []
     challenge_set = Set.new

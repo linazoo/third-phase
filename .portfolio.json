@@ -27,6 +27,11 @@
 
       ]
     },
+    "pre-work": {
+      "core": [
+        "rails-blog-challenge"
+      ]
+    },
     "weekend": {
       "core": [
 
