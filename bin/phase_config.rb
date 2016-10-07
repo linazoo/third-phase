@@ -20,30 +20,8 @@ module PhaseConfig
 
   def challenges_as_list(path)
     list = find_challenges(path).map{|challenge| challenge[2]}.flatten
-    list << "student-handbook" #temporary
-    list << "ar-skeleton" #temporary
+    list.concat find_resources(path)
     list.sort
-  end
-
-  def challenges_as_portfolio(path)
-    challenge_hash = challenges_as_hash(path)
-    challenge_hash.keys.each_with_index do |week, index|
-      new_key = "week#{index+1}"
-      days_hash = challenge_hash[week]
-
-      days_hash.keys.each_with_index do |day, index|
-        if day == "weekend" || day == "pre-work"
-          days_hash[day] = {core: days_hash[day]}
-        else
-          days_hash["day#{index+1}"] = {core: days_hash[day]}
-          days_hash.delete(day)
-        end
-      end
-
-      challenge_hash[new_key] = Hash[days_hash.sort]
-      challenge_hash.delete(week)
-    end
-    challenge_hash
   end
 
   def find_challenges(path)
@@ -67,5 +45,11 @@ module PhaseConfig
     end
 
     challenges
+  end
+
+  def find_resources(path)
+    repo = File.expand_path(path)
+    file = File.read("#{repo}/config/resources.json")
+    JSON.parse(file)
   end
 end
