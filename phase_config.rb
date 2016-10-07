@@ -3,6 +3,7 @@ require 'pathname'
 require 'json'
 require 'set'
 
+#TODO(matt): Delegate student handbook forking to Hemlock
 
 module PhaseConfig
   extend self
@@ -18,17 +19,37 @@ module PhaseConfig
   end
 
   def challenges_as_list(path)
-    #TODO(matt): Delegate student handbook forking to Hemlock
     list = find_challenges(path).map{|challenge| challenge[2]}.flatten
     list << "student-handbook" #temporary
     list << "ar-skeleton" #temporary
     list.sort
   end
 
+  def challenges_as_portfolio(path)
+    challenge_hash = challenges_as_hash(path)
+    challenge_hash.keys.each_with_index do |week, index|
+      new_key = "week#{index+1}"
+      days_hash = challenge_hash[week]
+
+      days_hash.keys.each_with_index do |day, index|
+        if day == "weekend" || day == "pre-work"
+          days_hash[day] = {core: days_hash[day]}
+        else
+          days_hash["day#{index+1}"] = {core: days_hash[day]}
+          days_hash.delete(day)
+        end
+      end
+
+      challenge_hash[new_key] = Hash[days_hash.sort]
+      challenge_hash.delete(week)
+    end
+    challenge_hash
+  end
+
   def find_challenges(path)
     repo = File.expand_path(path)
     config_dir = "#{repo}/config"
-    glob_pattern = "#{repo}/**/week-*/{pre-work,monday,tuesday,wednesday,thursday,friday,weekend}.md"
+    glob_pattern = "#{repo}/**/week-*/{monday,tuesday,wednesday,thursday,friday,weekend,pre-work}.md"
     challenge_pattern = /([^\/]*-challenge)\)/
     challenges = []
     challenge_set = Set.new
@@ -41,7 +62,7 @@ module PhaseConfig
         .open {|f| f.read.scan(challenge_pattern).flatten }
         .reject{|match| challenge_set.include?(match) }
 
-      challenges << [week, day, matches]
+      challenges << [week.to_s, day.to_s, matches]
       challenge_set.merge(matches)
     end
 
