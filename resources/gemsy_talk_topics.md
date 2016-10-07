@@ -81,7 +81,6 @@ Resources
 * Draper
 * Presenter pattern (concept)
 * erector
-* cowsay
 
 #### Analytics and Metrics
 
