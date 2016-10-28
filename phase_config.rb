@@ -38,7 +38,6 @@ module PhaseConfig
       day = path.basename(".md")
       matches = path
         .open {|f| f.read.scan(challenge_pattern).flatten }
-        .reject{|match| challenge_set.include?(match) }
 
       challenges << [week.to_s, day.to_s, matches]
       challenge_set.merge(matches)
