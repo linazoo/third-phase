@@ -41,7 +41,7 @@
 
 ## Weekly Groups
 
-<- FILL IN DETAILS HERE -> 
+<- FILL IN DETAILS HERE ->
 
 ## Weekly Cadence
 
