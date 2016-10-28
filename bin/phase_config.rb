@@ -21,7 +21,7 @@ module PhaseConfig
   def challenges_as_list(path)
     list = find_challenges(path).map{|challenge| challenge[2]}.flatten
     list.concat find_resources(path)
-    list.sort
+    list.sort.uniq
   end
 
   def find_challenges(path)
