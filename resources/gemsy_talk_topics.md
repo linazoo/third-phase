@@ -1,6 +1,6 @@
 # DO NOT MODIFY THIS FILE
 
-### IMPORTANT: Once you've chosen your topic from the list below, enter it on the schedule on the [Railsy & Gemsy Talks Wiki](../../../wiki/railsy-and-gemsy-talks).
+### IMPORTANT: Once you've chosen your topic from the list below, enter it on the schedule on the [Lightning Talks Schedule](./lightning-talks-schedule.md).
 
 Make sure you don't start working on a topic that has already been picked by someone else!
 
@@ -81,7 +81,6 @@ Resources
 * Draper
 * Presenter pattern (concept)
 * erector
-* cowsay
 
 #### Analytics and Metrics
 
