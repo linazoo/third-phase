@@ -44,7 +44,7 @@ minification
 * concerns
 
 #### General
-* differences between Rails 3 and 4
+* differences between Rails 4 and 5
 * flash and sessions
 * environment files
 * initializers
