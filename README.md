@@ -13,7 +13,7 @@
   </tr>
 
   <tr>
-    <th><a href="./week-7/">Week 7</a></th>
+    <th>Week 7</th>
     <td><a href="./week-7/monday.md">Monday</a></a></td>
     <td><a href="./week-7/tuesday.md">Tuesday</a></td>
     <td><a href="./week-7/wednesday.md">Wednesday</a></td>
@@ -23,7 +23,7 @@
   </tr>
 
   <tr>
-    <th><a href="./week-8/">Week 8</a></th>
+    <th>Week 8</th>
     <td><a href="./week-8/monday.md">Monday</a></a></td>
     <td><a href="./week-8/tuesday.md">Tuesday</a></td>
     <td><a href="./week-8/wednesday.md">Wednesday</a></td>
@@ -31,7 +31,7 @@
   </tr>
 
   <tr>
-    <th><a href="./week-9/">Week 9</a></th>
+    <th>Week 9</th>
     <td colspan="3"><a href="./final-projects/README.md">Final Projects</a></td>
     <td>Demo Preparation</td>
     <td>Demonstration and Graduation</td>
