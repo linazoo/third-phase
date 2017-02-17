@@ -6,6 +6,10 @@
 
 Choose a [Gemsy Talk Topic](../resources/gemsy_talk_topics.md) (using a Gem within a Rails app) and prepare your lightning talk.
 
+** Rails Checkpoint **
+
+Work on this solo [rails checkpoint challenge](../../../../rails-checkpoint-challenge) and submit a PR for review when you are finished.  Please finish it before Monday.
+
 **Solo Project**
 
 We want you to take this opportunity before final projects begin to build something that satisfies and expands your curiosity. Build an app with a client-side framework. Explore a different data store. Deploy a Rails application to a VPS like DigitalOcean or Linode that you set up yourself. Write a JavaScript game. Write an app in Python. Write one tiny app six times in six different JavaScript frameworks.
