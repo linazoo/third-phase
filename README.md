@@ -45,8 +45,6 @@ Find your weekly groups [here](./resources/groups.md).
 
 ## Weekly Cadence
 
-- Yoga:
-  - <- FILL IN DETAILS HERE ->
 - Engineering Empathy (EE):
   - <- FILL IN DETAILS HERE ->
 - Careers:
