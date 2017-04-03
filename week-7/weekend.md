@@ -6,7 +6,7 @@
 
 Choose a [Gemsy Talk Topic](../resources/gemsy_talk_topics.md) (using a Gem within a Rails app) and prepare your lightning talk.
 
-** Rails Checkpoint **
+**Rails Checkpoint**
 
 Work on this solo [rails checkpoint challenge](../../../../rails-checkpoint-challenge) and submit a PR for review when you are finished.  Please finish it before Monday.
 
