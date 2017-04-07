@@ -18,16 +18,10 @@ module PhaseConfig
     challenge_hash
   end
 
-  def challenges_as_list(path)
-    list = find_challenges(path).map{|challenge| challenge[2]}.flatten
-    list.concat find_resources(path)
-    list.sort.uniq
-  end
-
   def find_challenges(path)
     repo = File.expand_path(path)
     config_dir = "#{repo}/config"
-    glob_pattern = "#{repo}/**/week-*/{monday,tuesday,wednesday,thursday,friday,weekend,pre-work}.md"
+    glob_pattern = "#{repo}/**/week-*/{monday,tuesday,wednesday,thursday,friday,saturday,weekend,pre-work}.md"
     challenge_pattern = /([^\/]*-challenge)\)/
     challenges = []
     challenge_set = Set.new

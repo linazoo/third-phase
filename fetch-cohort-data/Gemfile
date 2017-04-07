@@ -1,0 +1,4 @@
+source 'https://rubygems.org'
+
+gem 'backoffice', :git => 'https://377903c8b8486be21df0016e381b846d4c3b9afb:x-oauth-basic@github.com/kaplan-advance/bo-ruby'
+
