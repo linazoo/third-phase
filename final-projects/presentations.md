@@ -2,9 +2,9 @@
 
 It's time to show off what you've made to the community. Here are some tips on putting together an effective presentation of your final project at DBC.
 
-Before presentation day, you should be able to do a complete runthrough in eight minutes without stopping. To get there, expect a minimum of five complete runthroughs with the full team.
+Before presentation day, you should have your resume ready to hand out to employers & be able to do a complete runthrough in eight minutes without stopping. To get there, expect a minimum of five complete runthroughs with the full team.
 
-You have __ten minutes__ to present and roughly __four minutes__ for questions.
+You have __ten minutes__ to present and roughly __three minutes__ for questions.
 
 ## Why we present...
 
@@ -21,7 +21,8 @@ You have __ten minutes__ to present and roughly __four minutes__ for questions.
 - 1m:   Team member intros
 - 5m:   The Story
 - 3m:   The App
-- 4m:   Questions
+- 1m:   Closing & Contact Information
+- 3m:   Questions
 
 ## Hello
 
@@ -89,3 +90,17 @@ __Timing enforcement:__ A helper will post your time on a whiteboard at 8m, 9m, 
 Example: "That's our presentation, and we're happy to answer questions" [applause]
 
 Once in questions, staff will call for "last question" etc to facilitate exit from the stage and keep you on time. Don't verbalize "We're out of time", just say thank you and end the presentation.
+
+## Remember - Personal Presence
+- Stand to the side of the projection screen
+- Practice holding the mic and speaking slowly into it
+- Make transitions fluid between speakers (handing off mic)
+- Be cautious of filler sounds or words (um, uh, well, like, etc...)
+- Show and bring excitement and passion to your presentation
+
+## Helpful Articles
+1. [Ways to Look More Confident During a Presentation](https://hbr.org/2017/04/6-ways-to-look-more-confident-during-a-presentation)
+2. [Presentation Infographic](https://www.themuse.com/advice/10-presentation-facts-that-make-public-speaking-a-little-less-scary)
+3. [Public Speaking 101](https://www.themuse.com/advice/public-speaking-101-10-mustreads-before-your-next-presentation)
+4. [Tips for Designing Your Slides](http://speaking.io/)
+5. [Example of Presentation Deck](https://docs.google.com/presentation/d/16M8JrYLuPXPXoijYA2R0Tfkrc8hOY-zDnLIcIc_OzZg/edit#slide=id.g1ec523a243_0_16)
