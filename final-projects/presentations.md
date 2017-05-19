@@ -2,7 +2,7 @@
 
 It's time to show off what you've made to the community. Here are some tips on putting together an effective presentation of your final project at DBC.
 
-Before presentation day, you should have your resume ready to hand out to employers & be able to do a complete runthrough in eight minutes without stopping. To get there, expect a minimum of five complete runthroughs with the full team.
+Before presentation day, you should have your resume ready to hand out to employers and be able to do a complete runthrough in eight minutes without stopping. To get there, expect a minimum of five complete runthroughs with the full team.
 
 You have __ten minutes__ to present and roughly __three minutes__ for questions.
 
