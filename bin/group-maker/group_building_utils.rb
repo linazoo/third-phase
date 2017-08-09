@@ -150,7 +150,7 @@ module GroupBuildingUtils
   def format(phase)
     str = ""
     phase.each_with_index do |week, i|
-      str << "##Week #{i+1}\n"
+      str << "## Week #{i+1}\n"
       week.each_with_index do |group, j|
         str << "#{j+1}. (#{group.size}) #{group.join(", ")}\n"
       end
